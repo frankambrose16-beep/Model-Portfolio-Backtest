@@ -1,0 +1,2234 @@
+Date,Strategy,Ticker,Weight
+2019-10-04,Max-Sharpe (Version 1),VOO,0.2
+2019-10-04,Max-Sharpe (Version 1),IJR,0.0339
+2019-10-04,Max-Sharpe (Version 1),VEA,0.0
+2019-10-04,Max-Sharpe (Version 1),VWO,0.0
+2019-10-04,Max-Sharpe (Version 1),BND,0.2
+2019-10-04,Max-Sharpe (Version 1),VGLT,0.1121
+2019-10-04,Max-Sharpe (Version 1),VCIT,0.2
+2019-10-04,Max-Sharpe (Version 1),SCHP,0.0039
+2019-10-04,Max-Sharpe (Version 1),VNQ,0.0
+2019-10-04,Max-Sharpe (Version 1),IAU,0.0502
+2019-10-04,Max-Sharpe (Version 1),SHV,0.2
+2019-10-04,Max-Sharpe (shrunk),VOO,0.1604
+2019-10-04,Max-Sharpe (shrunk),IJR,0.0
+2019-10-04,Max-Sharpe (shrunk),VEA,0.0
+2019-10-04,Max-Sharpe (shrunk),VWO,0.0
+2019-10-04,Max-Sharpe (shrunk),BND,0.2
+2019-10-04,Max-Sharpe (shrunk),VGLT,0.0086
+2019-10-04,Max-Sharpe (shrunk),VCIT,0.2
+2019-10-04,Max-Sharpe (shrunk),SCHP,0.2
+2019-10-04,Max-Sharpe (shrunk),VNQ,0.0
+2019-10-04,Max-Sharpe (shrunk),IAU,0.031
+2019-10-04,Max-Sharpe (shrunk),SHV,0.2
+2019-10-04,Minimum variance,VOO,0.0615
+2019-10-04,Minimum variance,IJR,0.0408
+2019-10-04,Minimum variance,VEA,0.033
+2019-10-04,Minimum variance,VWO,0.0
+2019-10-04,Minimum variance,BND,0.2
+2019-10-04,Minimum variance,VGLT,0.0229
+2019-10-04,Minimum variance,VCIT,0.2
+2019-10-04,Minimum variance,SCHP,0.2
+2019-10-04,Minimum variance,VNQ,0.0
+2019-10-04,Minimum variance,IAU,0.0418
+2019-10-04,Minimum variance,SHV,0.2
+2019-10-04,Risk parity,VOO,0.0472
+2019-10-04,Risk parity,IJR,0.0461
+2019-10-04,Risk parity,VEA,0.0469
+2019-10-04,Risk parity,VWO,0.0321
+2019-10-04,Risk parity,BND,0.175
+2019-10-04,Risk parity,VGLT,0.0645
+2019-10-04,Risk parity,VCIT,0.1384
+2019-10-04,Risk parity,SCHP,0.1535
+2019-10-04,Risk parity,VNQ,0.0379
+2019-10-04,Risk parity,IAU,0.0584
+2019-10-04,Risk parity,SHV,0.2
+2019-10-04,Equal weight,VOO,0.0909
+2019-10-04,Equal weight,IJR,0.0909
+2019-10-04,Equal weight,VEA,0.0909
+2019-10-04,Equal weight,VWO,0.0909
+2019-10-04,Equal weight,BND,0.0909
+2019-10-04,Equal weight,VGLT,0.0909
+2019-10-04,Equal weight,VCIT,0.0909
+2019-10-04,Equal weight,SCHP,0.0909
+2019-10-04,Equal weight,VNQ,0.0909
+2019-10-04,Equal weight,IAU,0.0909
+2019-10-04,Equal weight,SHV,0.0909
+2020-10-05,Max-Sharpe (Version 1),VOO,0.1671
+2020-10-05,Max-Sharpe (Version 1),IJR,0.0
+2020-10-05,Max-Sharpe (Version 1),VEA,0.0
+2020-10-05,Max-Sharpe (Version 1),VWO,0.0
+2020-10-05,Max-Sharpe (Version 1),BND,0.0
+2020-10-05,Max-Sharpe (Version 1),VGLT,0.2
+2020-10-05,Max-Sharpe (Version 1),VCIT,0.0329
+2020-10-05,Max-Sharpe (Version 1),SCHP,0.2
+2020-10-05,Max-Sharpe (Version 1),VNQ,0.0
+2020-10-05,Max-Sharpe (Version 1),IAU,0.2
+2020-10-05,Max-Sharpe (Version 1),SHV,0.2
+2020-10-05,Max-Sharpe (shrunk),VOO,0.0903
+2020-10-05,Max-Sharpe (shrunk),IJR,0.0
+2020-10-05,Max-Sharpe (shrunk),VEA,0.0
+2020-10-05,Max-Sharpe (shrunk),VWO,0.0
+2020-10-05,Max-Sharpe (shrunk),BND,0.1752
+2020-10-05,Max-Sharpe (shrunk),VGLT,0.0969
+2020-10-05,Max-Sharpe (shrunk),VCIT,0.1257
+2020-10-05,Max-Sharpe (shrunk),SCHP,0.2
+2020-10-05,Max-Sharpe (shrunk),VNQ,0.0
+2020-10-05,Max-Sharpe (shrunk),IAU,0.1119
+2020-10-05,Max-Sharpe (shrunk),SHV,0.2
+2020-10-05,Minimum variance,VOO,0.0674
+2020-10-05,Minimum variance,IJR,0.0
+2020-10-05,Minimum variance,VEA,0.0
+2020-10-05,Minimum variance,VWO,0.0
+2020-10-05,Minimum variance,BND,0.2
+2020-10-05,Minimum variance,VGLT,0.0595
+2020-10-05,Minimum variance,VCIT,0.2
+2020-10-05,Minimum variance,SCHP,0.2
+2020-10-05,Minimum variance,VNQ,0.0
+2020-10-05,Minimum variance,IAU,0.073
+2020-10-05,Minimum variance,SHV,0.2
+2020-10-05,Risk parity,VOO,0.0489
+2020-10-05,Risk parity,IJR,0.0405
+2020-10-05,Risk parity,VEA,0.0494
+2020-10-05,Risk parity,VWO,0.0469
+2020-10-05,Risk parity,BND,0.162
+2020-10-05,Risk parity,VGLT,0.1496
+2020-10-05,Risk parity,VCIT,0.1359
+2020-10-05,Risk parity,SCHP,0.2
+2020-10-05,Risk parity,VNQ,0.0392
+2020-10-05,Risk parity,IAU,0.0967
+2020-10-05,Risk parity,SHV,0.0308
+2020-10-05,Equal weight,VOO,0.0909
+2020-10-05,Equal weight,IJR,0.0909
+2020-10-05,Equal weight,VEA,0.0909
+2020-10-05,Equal weight,VWO,0.0909
+2020-10-05,Equal weight,BND,0.0909
+2020-10-05,Equal weight,VGLT,0.0909
+2020-10-05,Equal weight,VCIT,0.0909
+2020-10-05,Equal weight,SCHP,0.0909
+2020-10-05,Equal weight,VNQ,0.0909
+2020-10-05,Equal weight,IAU,0.0909
+2020-10-05,Equal weight,SHV,0.0909
+2021-10-05,Max-Sharpe (Version 1),VOO,0.2
+2021-10-05,Max-Sharpe (Version 1),IJR,0.0
+2021-10-05,Max-Sharpe (Version 1),VEA,0.0
+2021-10-05,Max-Sharpe (Version 1),VWO,0.0
+2021-10-05,Max-Sharpe (Version 1),BND,0.0
+2021-10-05,Max-Sharpe (Version 1),VGLT,0.2
+2021-10-05,Max-Sharpe (Version 1),VCIT,0.2
+2021-10-05,Max-Sharpe (Version 1),SCHP,0.2
+2021-10-05,Max-Sharpe (Version 1),VNQ,0.0
+2021-10-05,Max-Sharpe (Version 1),IAU,0.1959
+2021-10-05,Max-Sharpe (Version 1),SHV,0.0041
+2021-10-05,Max-Sharpe (shrunk),VOO,0.0767
+2021-10-05,Max-Sharpe (shrunk),IJR,0.0
+2021-10-05,Max-Sharpe (shrunk),VEA,0.0
+2021-10-05,Max-Sharpe (shrunk),VWO,0.0
+2021-10-05,Max-Sharpe (shrunk),BND,0.2
+2021-10-05,Max-Sharpe (shrunk),VGLT,0.0456
+2021-10-05,Max-Sharpe (shrunk),VCIT,0.2
+2021-10-05,Max-Sharpe (shrunk),SCHP,0.2
+2021-10-05,Max-Sharpe (shrunk),VNQ,0.0
+2021-10-05,Max-Sharpe (shrunk),IAU,0.0778
+2021-10-05,Max-Sharpe (shrunk),SHV,0.2
+2021-10-05,Minimum variance,VOO,0.0619
+2021-10-05,Minimum variance,IJR,0.0
+2021-10-05,Minimum variance,VEA,0.0098
+2021-10-05,Minimum variance,VWO,0.0
+2021-10-05,Minimum variance,BND,0.2
+2021-10-05,Minimum variance,VGLT,0.0647
+2021-10-05,Minimum variance,VCIT,0.2
+2021-10-05,Minimum variance,SCHP,0.2
+2021-10-05,Minimum variance,VNQ,0.0
+2021-10-05,Minimum variance,IAU,0.0637
+2021-10-05,Minimum variance,SHV,0.2
+2021-10-05,Risk parity,VOO,0.0494
+2021-10-05,Risk parity,IJR,0.0408
+2021-10-05,Risk parity,VEA,0.0506
+2021-10-05,Risk parity,VWO,0.0483
+2021-10-05,Risk parity,BND,0.1673
+2021-10-05,Risk parity,VGLT,0.1473
+2021-10-05,Risk parity,VCIT,0.1385
+2021-10-05,Risk parity,SCHP,0.2
+2021-10-05,Risk parity,VNQ,0.0414
+2021-10-05,Risk parity,IAU,0.0923
+2021-10-05,Risk parity,SHV,0.0241
+2021-10-05,Equal weight,VOO,0.0909
+2021-10-05,Equal weight,IJR,0.0909
+2021-10-05,Equal weight,VEA,0.0909
+2021-10-05,Equal weight,VWO,0.0909
+2021-10-05,Equal weight,BND,0.0909
+2021-10-05,Equal weight,VGLT,0.0909
+2021-10-05,Equal weight,VCIT,0.0909
+2021-10-05,Equal weight,SCHP,0.0909
+2021-10-05,Equal weight,VNQ,0.0909
+2021-10-05,Equal weight,IAU,0.0909
+2021-10-05,Equal weight,SHV,0.0909
+2022-10-05,Max-Sharpe (Version 1),VOO,0.2
+2022-10-05,Max-Sharpe (Version 1),IJR,0.128
+2022-10-05,Max-Sharpe (Version 1),VEA,0.0
+2022-10-05,Max-Sharpe (Version 1),VWO,0.0
+2022-10-05,Max-Sharpe (Version 1),BND,0.072
+2022-10-05,Max-Sharpe (Version 1),VGLT,0.0
+2022-10-05,Max-Sharpe (Version 1),VCIT,0.0
+2022-10-05,Max-Sharpe (Version 1),SCHP,0.2
+2022-10-05,Max-Sharpe (Version 1),VNQ,0.0
+2022-10-05,Max-Sharpe (Version 1),IAU,0.2
+2022-10-05,Max-Sharpe (Version 1),SHV,0.2
+2022-10-05,Max-Sharpe (shrunk),VOO,0.2
+2022-10-05,Max-Sharpe (shrunk),IJR,0.128
+2022-10-05,Max-Sharpe (shrunk),VEA,0.0
+2022-10-05,Max-Sharpe (shrunk),VWO,0.0
+2022-10-05,Max-Sharpe (shrunk),BND,0.072
+2022-10-05,Max-Sharpe (shrunk),VGLT,0.0
+2022-10-05,Max-Sharpe (shrunk),VCIT,0.0
+2022-10-05,Max-Sharpe (shrunk),SCHP,0.2
+2022-10-05,Max-Sharpe (shrunk),VNQ,0.0
+2022-10-05,Max-Sharpe (shrunk),IAU,0.2
+2022-10-05,Max-Sharpe (shrunk),SHV,0.2
+2022-10-05,Minimum variance,VOO,0.0292
+2022-10-05,Minimum variance,IJR,0.0
+2022-10-05,Minimum variance,VEA,0.0
+2022-10-05,Minimum variance,VWO,0.034
+2022-10-05,Minimum variance,BND,0.2
+2022-10-05,Minimum variance,VGLT,0.0303
+2022-10-05,Minimum variance,VCIT,0.2
+2022-10-05,Minimum variance,SCHP,0.2
+2022-10-05,Minimum variance,VNQ,0.0
+2022-10-05,Minimum variance,IAU,0.1064
+2022-10-05,Minimum variance,SHV,0.2
+2022-10-05,Risk parity,VOO,0.0415
+2022-10-05,Risk parity,IJR,0.033
+2022-10-05,Risk parity,VEA,0.0373
+2022-10-05,Risk parity,VWO,0.0416
+2022-10-05,Risk parity,BND,0.157
+2022-10-05,Risk parity,VGLT,0.0643
+2022-10-05,Risk parity,VCIT,0.1125
+2022-10-05,Risk parity,SCHP,0.1839
+2022-10-05,Risk parity,VNQ,0.0341
+2022-10-05,Risk parity,IAU,0.0949
+2022-10-05,Risk parity,SHV,0.2
+2022-10-05,Equal weight,VOO,0.0909
+2022-10-05,Equal weight,IJR,0.0909
+2022-10-05,Equal weight,VEA,0.0909
+2022-10-05,Equal weight,VWO,0.0909
+2022-10-05,Equal weight,BND,0.0909
+2022-10-05,Equal weight,VGLT,0.0909
+2022-10-05,Equal weight,VCIT,0.0909
+2022-10-05,Equal weight,SCHP,0.0909
+2022-10-05,Equal weight,VNQ,0.0909
+2022-10-05,Equal weight,IAU,0.0909
+2022-10-05,Equal weight,SHV,0.0909
+2023-10-06,Max-Sharpe (Version 1),VOO,0.2
+2023-10-06,Max-Sharpe (Version 1),IJR,0.2
+2023-10-06,Max-Sharpe (Version 1),VEA,0.028
+2023-10-06,Max-Sharpe (Version 1),VWO,0.0
+2023-10-06,Max-Sharpe (Version 1),BND,0.0
+2023-10-06,Max-Sharpe (Version 1),VGLT,0.0
+2023-10-06,Max-Sharpe (Version 1),VCIT,0.0
+2023-10-06,Max-Sharpe (Version 1),SCHP,0.172
+2023-10-06,Max-Sharpe (Version 1),VNQ,0.0
+2023-10-06,Max-Sharpe (Version 1),IAU,0.2
+2023-10-06,Max-Sharpe (Version 1),SHV,0.2
+2023-10-06,Max-Sharpe (shrunk),VOO,0.2
+2023-10-06,Max-Sharpe (shrunk),IJR,0.2
+2023-10-06,Max-Sharpe (shrunk),VEA,0.028
+2023-10-06,Max-Sharpe (shrunk),VWO,0.0
+2023-10-06,Max-Sharpe (shrunk),BND,0.0
+2023-10-06,Max-Sharpe (shrunk),VGLT,0.0
+2023-10-06,Max-Sharpe (shrunk),VCIT,0.0
+2023-10-06,Max-Sharpe (shrunk),SCHP,0.172
+2023-10-06,Max-Sharpe (shrunk),VNQ,0.0
+2023-10-06,Max-Sharpe (shrunk),IAU,0.2
+2023-10-06,Max-Sharpe (shrunk),SHV,0.2
+2023-10-06,Minimum variance,VOO,0.0376
+2023-10-06,Minimum variance,IJR,0.0119
+2023-10-06,Minimum variance,VEA,0.0
+2023-10-06,Minimum variance,VWO,0.0564
+2023-10-06,Minimum variance,BND,0.2
+2023-10-06,Minimum variance,VGLT,0.0
+2023-10-06,Minimum variance,VCIT,0.2
+2023-10-06,Minimum variance,SCHP,0.2
+2023-10-06,Minimum variance,VNQ,0.0
+2023-10-06,Minimum variance,IAU,0.0941
+2023-10-06,Minimum variance,SHV,0.2
+2023-10-06,Risk parity,VOO,0.0535
+2023-10-06,Risk parity,IJR,0.0445
+2023-10-06,Risk parity,VEA,0.0423
+2023-10-06,Risk parity,VWO,0.0471
+2023-10-06,Risk parity,BND,0.1636
+2023-10-06,Risk parity,VGLT,0.0196
+2023-10-06,Risk parity,VCIT,0.1103
+2023-10-06,Risk parity,SCHP,0.1808
+2023-10-06,Risk parity,VNQ,0.0401
+2023-10-06,Risk parity,IAU,0.0982
+2023-10-06,Risk parity,SHV,0.2
+2023-10-06,Equal weight,VOO,0.0909
+2023-10-06,Equal weight,IJR,0.0909
+2023-10-06,Equal weight,VEA,0.0909
+2023-10-06,Equal weight,VWO,0.0909
+2023-10-06,Equal weight,BND,0.0909
+2023-10-06,Equal weight,VGLT,0.0909
+2023-10-06,Equal weight,VCIT,0.0909
+2023-10-06,Equal weight,SCHP,0.0909
+2023-10-06,Equal weight,VNQ,0.0909
+2023-10-06,Equal weight,IAU,0.0909
+2023-10-06,Equal weight,SHV,0.0909
+2024-10-08,Max-Sharpe (Version 1),VOO,0.2
+2024-10-08,Max-Sharpe (Version 1),IJR,0.0
+2024-10-08,Max-Sharpe (Version 1),VEA,0.1299
+2024-10-08,Max-Sharpe (Version 1),VWO,0.0453
+2024-10-08,Max-Sharpe (Version 1),BND,0.0
+2024-10-08,Max-Sharpe (Version 1),VGLT,0.0
+2024-10-08,Max-Sharpe (Version 1),VCIT,0.0249
+2024-10-08,Max-Sharpe (Version 1),SCHP,0.2
+2024-10-08,Max-Sharpe (Version 1),VNQ,0.0
+2024-10-08,Max-Sharpe (Version 1),IAU,0.2
+2024-10-08,Max-Sharpe (Version 1),SHV,0.2
+2024-10-08,Max-Sharpe (shrunk),VOO,0.2
+2024-10-08,Max-Sharpe (shrunk),IJR,0.0
+2024-10-08,Max-Sharpe (shrunk),VEA,0.0364
+2024-10-08,Max-Sharpe (shrunk),VWO,0.0533
+2024-10-08,Max-Sharpe (shrunk),BND,0.0
+2024-10-08,Max-Sharpe (shrunk),VGLT,0.0
+2024-10-08,Max-Sharpe (shrunk),VCIT,0.1103
+2024-10-08,Max-Sharpe (shrunk),SCHP,0.2
+2024-10-08,Max-Sharpe (shrunk),VNQ,0.0
+2024-10-08,Max-Sharpe (shrunk),IAU,0.2
+2024-10-08,Max-Sharpe (shrunk),SHV,0.2
+2024-10-08,Minimum variance,VOO,0.0502
+2024-10-08,Minimum variance,IJR,0.0
+2024-10-08,Minimum variance,VEA,0.0
+2024-10-08,Minimum variance,VWO,0.0626
+2024-10-08,Minimum variance,BND,0.2
+2024-10-08,Minimum variance,VGLT,0.0
+2024-10-08,Minimum variance,VCIT,0.2
+2024-10-08,Minimum variance,SCHP,0.2
+2024-10-08,Minimum variance,VNQ,0.0
+2024-10-08,Minimum variance,IAU,0.0872
+2024-10-08,Minimum variance,SHV,0.2
+2024-10-08,Risk parity,VOO,0.0599
+2024-10-08,Risk parity,IJR,0.0452
+2024-10-08,Risk parity,VEA,0.0433
+2024-10-08,Risk parity,VWO,0.0495
+2024-10-08,Risk parity,BND,0.149
+2024-10-08,Risk parity,VGLT,0.0205
+2024-10-08,Risk parity,VCIT,0.1064
+2024-10-08,Risk parity,SCHP,0.1818
+2024-10-08,Risk parity,VNQ,0.039
+2024-10-08,Risk parity,IAU,0.1055
+2024-10-08,Risk parity,SHV,0.2
+2024-10-08,Equal weight,VOO,0.0909
+2024-10-08,Equal weight,IJR,0.0909
+2024-10-08,Equal weight,VEA,0.0909
+2024-10-08,Equal weight,VWO,0.0909
+2024-10-08,Equal weight,BND,0.0909
+2024-10-08,Equal weight,VGLT,0.0909
+2024-10-08,Equal weight,VCIT,0.0909
+2024-10-08,Equal weight,SCHP,0.0909
+2024-10-08,Equal weight,VNQ,0.0909
+2024-10-08,Equal weight,IAU,0.0909
+2024-10-08,Equal weight,SHV,0.0909
+2025-10-10,Max-Sharpe (Version 1),VOO,0.2
+2025-10-10,Max-Sharpe (Version 1),IJR,0.0
+2025-10-10,Max-Sharpe (Version 1),VEA,0.0173
+2025-10-10,Max-Sharpe (Version 1),VWO,0.0
+2025-10-10,Max-Sharpe (Version 1),BND,0.0
+2025-10-10,Max-Sharpe (Version 1),VGLT,0.0
+2025-10-10,Max-Sharpe (Version 1),VCIT,0.2
+2025-10-10,Max-Sharpe (Version 1),SCHP,0.1827
+2025-10-10,Max-Sharpe (Version 1),VNQ,0.0
+2025-10-10,Max-Sharpe (Version 1),IAU,0.2
+2025-10-10,Max-Sharpe (Version 1),SHV,0.2
+2025-10-10,Max-Sharpe (shrunk),VOO,0.141
+2025-10-10,Max-Sharpe (shrunk),IJR,0.0
+2025-10-10,Max-Sharpe (shrunk),VEA,0.0
+2025-10-10,Max-Sharpe (shrunk),VWO,0.0
+2025-10-10,Max-Sharpe (shrunk),BND,0.0733
+2025-10-10,Max-Sharpe (shrunk),VGLT,0.0
+2025-10-10,Max-Sharpe (shrunk),VCIT,0.2
+2025-10-10,Max-Sharpe (shrunk),SCHP,0.2
+2025-10-10,Max-Sharpe (shrunk),VNQ,0.0
+2025-10-10,Max-Sharpe (shrunk),IAU,0.1857
+2025-10-10,Max-Sharpe (shrunk),SHV,0.2
+2025-10-10,Minimum variance,VOO,0.0876
+2025-10-10,Minimum variance,IJR,0.0
+2025-10-10,Minimum variance,VEA,0.0
+2025-10-10,Minimum variance,VWO,0.0368
+2025-10-10,Minimum variance,BND,0.2
+2025-10-10,Minimum variance,VGLT,0.0
+2025-10-10,Minimum variance,VCIT,0.2
+2025-10-10,Minimum variance,SCHP,0.2
+2025-10-10,Minimum variance,VNQ,0.0
+2025-10-10,Minimum variance,IAU,0.0756
+2025-10-10,Minimum variance,SHV,0.2
+2025-10-10,Risk parity,VOO,0.0583
+2025-10-10,Risk parity,IJR,0.0438
+2025-10-10,Risk parity,VEA,0.0525
+2025-10-10,Risk parity,VWO,0.0587
+2025-10-10,Risk parity,BND,0.133
+2025-10-10,Risk parity,VGLT,0.0637
+2025-10-10,Risk parity,VCIT,0.1143
+2025-10-10,Risk parity,SCHP,0.1538
+2025-10-10,Risk parity,VNQ,0.0437
+2025-10-10,Risk parity,IAU,0.0782
+2025-10-10,Risk parity,SHV,0.2
+2025-10-10,Equal weight,VOO,0.0909
+2025-10-10,Equal weight,IJR,0.0909
+2025-10-10,Equal weight,VEA,0.0909
+2025-10-10,Equal weight,VWO,0.0909
+2025-10-10,Equal weight,BND,0.0909
+2025-10-10,Equal weight,VGLT,0.0909
+2025-10-10,Equal weight,VCIT,0.0909
+2025-10-10,Equal weight,SCHP,0.0909
+2025-10-10,Equal weight,VNQ,0.0909
+2025-10-10,Equal weight,IAU,0.0909
+2025-10-10,Equal weight,SHV,0.0909
+2019-10-04,60/40 + trend filter,VOO,0.6
+2019-10-04,60/40 + trend filter,IJR,0.0
+2019-10-04,60/40 + trend filter,VEA,0.0
+2019-10-04,60/40 + trend filter,VWO,0.0
+2019-10-04,60/40 + trend filter,BND,0.4
+2019-10-04,60/40 + trend filter,VGLT,0.0
+2019-10-04,60/40 + trend filter,VCIT,0.0
+2019-10-04,60/40 + trend filter,SCHP,0.0
+2019-10-04,60/40 + trend filter,VNQ,0.0
+2019-10-04,60/40 + trend filter,IAU,0.0
+2019-10-04,60/40 + trend filter,SHV,0.0
+2019-11-04,60/40 + trend filter,VOO,0.6
+2019-11-04,60/40 + trend filter,IJR,0.0
+2019-11-04,60/40 + trend filter,VEA,0.0
+2019-11-04,60/40 + trend filter,VWO,0.0
+2019-11-04,60/40 + trend filter,BND,0.4
+2019-11-04,60/40 + trend filter,VGLT,0.0
+2019-11-04,60/40 + trend filter,VCIT,0.0
+2019-11-04,60/40 + trend filter,SCHP,0.0
+2019-11-04,60/40 + trend filter,VNQ,0.0
+2019-11-04,60/40 + trend filter,IAU,0.0
+2019-11-04,60/40 + trend filter,SHV,0.0
+2019-12-04,60/40 + trend filter,VOO,0.6
+2019-12-04,60/40 + trend filter,IJR,0.0
+2019-12-04,60/40 + trend filter,VEA,0.0
+2019-12-04,60/40 + trend filter,VWO,0.0
+2019-12-04,60/40 + trend filter,BND,0.4
+2019-12-04,60/40 + trend filter,VGLT,0.0
+2019-12-04,60/40 + trend filter,VCIT,0.0
+2019-12-04,60/40 + trend filter,SCHP,0.0
+2019-12-04,60/40 + trend filter,VNQ,0.0
+2019-12-04,60/40 + trend filter,IAU,0.0
+2019-12-04,60/40 + trend filter,SHV,0.0
+2020-01-06,60/40 + trend filter,VOO,0.6
+2020-01-06,60/40 + trend filter,IJR,0.0
+2020-01-06,60/40 + trend filter,VEA,0.0
+2020-01-06,60/40 + trend filter,VWO,0.0
+2020-01-06,60/40 + trend filter,BND,0.4
+2020-01-06,60/40 + trend filter,VGLT,0.0
+2020-01-06,60/40 + trend filter,VCIT,0.0
+2020-01-06,60/40 + trend filter,SCHP,0.0
+2020-01-06,60/40 + trend filter,VNQ,0.0
+2020-01-06,60/40 + trend filter,IAU,0.0
+2020-01-06,60/40 + trend filter,SHV,0.0
+2020-02-05,60/40 + trend filter,VOO,0.6
+2020-02-05,60/40 + trend filter,IJR,0.0
+2020-02-05,60/40 + trend filter,VEA,0.0
+2020-02-05,60/40 + trend filter,VWO,0.0
+2020-02-05,60/40 + trend filter,BND,0.4
+2020-02-05,60/40 + trend filter,VGLT,0.0
+2020-02-05,60/40 + trend filter,VCIT,0.0
+2020-02-05,60/40 + trend filter,SCHP,0.0
+2020-02-05,60/40 + trend filter,VNQ,0.0
+2020-02-05,60/40 + trend filter,IAU,0.0
+2020-02-05,60/40 + trend filter,SHV,0.0
+2020-03-06,60/40 + trend filter,VOO,0.0
+2020-03-06,60/40 + trend filter,IJR,0.0
+2020-03-06,60/40 + trend filter,VEA,0.0
+2020-03-06,60/40 + trend filter,VWO,0.0
+2020-03-06,60/40 + trend filter,BND,0.4
+2020-03-06,60/40 + trend filter,VGLT,0.0
+2020-03-06,60/40 + trend filter,VCIT,0.0
+2020-03-06,60/40 + trend filter,SCHP,0.0
+2020-03-06,60/40 + trend filter,VNQ,0.0
+2020-03-06,60/40 + trend filter,IAU,0.0
+2020-03-06,60/40 + trend filter,SHV,0.6
+2020-04-06,60/40 + trend filter,VOO,0.0
+2020-04-06,60/40 + trend filter,IJR,0.0
+2020-04-06,60/40 + trend filter,VEA,0.0
+2020-04-06,60/40 + trend filter,VWO,0.0
+2020-04-06,60/40 + trend filter,BND,0.4
+2020-04-06,60/40 + trend filter,VGLT,0.0
+2020-04-06,60/40 + trend filter,VCIT,0.0
+2020-04-06,60/40 + trend filter,SCHP,0.0
+2020-04-06,60/40 + trend filter,VNQ,0.0
+2020-04-06,60/40 + trend filter,IAU,0.0
+2020-04-06,60/40 + trend filter,SHV,0.6
+2020-05-06,60/40 + trend filter,VOO,0.0
+2020-05-06,60/40 + trend filter,IJR,0.0
+2020-05-06,60/40 + trend filter,VEA,0.0
+2020-05-06,60/40 + trend filter,VWO,0.0
+2020-05-06,60/40 + trend filter,BND,0.4
+2020-05-06,60/40 + trend filter,VGLT,0.0
+2020-05-06,60/40 + trend filter,VCIT,0.0
+2020-05-06,60/40 + trend filter,SCHP,0.0
+2020-05-06,60/40 + trend filter,VNQ,0.0
+2020-05-06,60/40 + trend filter,IAU,0.0
+2020-05-06,60/40 + trend filter,SHV,0.6
+2020-06-05,60/40 + trend filter,VOO,0.6
+2020-06-05,60/40 + trend filter,IJR,0.0
+2020-06-05,60/40 + trend filter,VEA,0.0
+2020-06-05,60/40 + trend filter,VWO,0.0
+2020-06-05,60/40 + trend filter,BND,0.4
+2020-06-05,60/40 + trend filter,VGLT,0.0
+2020-06-05,60/40 + trend filter,VCIT,0.0
+2020-06-05,60/40 + trend filter,SCHP,0.0
+2020-06-05,60/40 + trend filter,VNQ,0.0
+2020-06-05,60/40 + trend filter,IAU,0.0
+2020-06-05,60/40 + trend filter,SHV,0.0
+2020-07-07,60/40 + trend filter,VOO,0.6
+2020-07-07,60/40 + trend filter,IJR,0.0
+2020-07-07,60/40 + trend filter,VEA,0.0
+2020-07-07,60/40 + trend filter,VWO,0.0
+2020-07-07,60/40 + trend filter,BND,0.4
+2020-07-07,60/40 + trend filter,VGLT,0.0
+2020-07-07,60/40 + trend filter,VCIT,0.0
+2020-07-07,60/40 + trend filter,SCHP,0.0
+2020-07-07,60/40 + trend filter,VNQ,0.0
+2020-07-07,60/40 + trend filter,IAU,0.0
+2020-07-07,60/40 + trend filter,SHV,0.0
+2020-08-05,60/40 + trend filter,VOO,0.6
+2020-08-05,60/40 + trend filter,IJR,0.0
+2020-08-05,60/40 + trend filter,VEA,0.0
+2020-08-05,60/40 + trend filter,VWO,0.0
+2020-08-05,60/40 + trend filter,BND,0.4
+2020-08-05,60/40 + trend filter,VGLT,0.0
+2020-08-05,60/40 + trend filter,VCIT,0.0
+2020-08-05,60/40 + trend filter,SCHP,0.0
+2020-08-05,60/40 + trend filter,VNQ,0.0
+2020-08-05,60/40 + trend filter,IAU,0.0
+2020-08-05,60/40 + trend filter,SHV,0.0
+2020-09-03,60/40 + trend filter,VOO,0.6
+2020-09-03,60/40 + trend filter,IJR,0.0
+2020-09-03,60/40 + trend filter,VEA,0.0
+2020-09-03,60/40 + trend filter,VWO,0.0
+2020-09-03,60/40 + trend filter,BND,0.4
+2020-09-03,60/40 + trend filter,VGLT,0.0
+2020-09-03,60/40 + trend filter,VCIT,0.0
+2020-09-03,60/40 + trend filter,SCHP,0.0
+2020-09-03,60/40 + trend filter,VNQ,0.0
+2020-09-03,60/40 + trend filter,IAU,0.0
+2020-09-03,60/40 + trend filter,SHV,0.0
+2020-10-05,60/40 + trend filter,VOO,0.6
+2020-10-05,60/40 + trend filter,IJR,0.0
+2020-10-05,60/40 + trend filter,VEA,0.0
+2020-10-05,60/40 + trend filter,VWO,0.0
+2020-10-05,60/40 + trend filter,BND,0.4
+2020-10-05,60/40 + trend filter,VGLT,0.0
+2020-10-05,60/40 + trend filter,VCIT,0.0
+2020-10-05,60/40 + trend filter,SCHP,0.0
+2020-10-05,60/40 + trend filter,VNQ,0.0
+2020-10-05,60/40 + trend filter,IAU,0.0
+2020-10-05,60/40 + trend filter,SHV,0.0
+2020-11-03,60/40 + trend filter,VOO,0.6
+2020-11-03,60/40 + trend filter,IJR,0.0
+2020-11-03,60/40 + trend filter,VEA,0.0
+2020-11-03,60/40 + trend filter,VWO,0.0
+2020-11-03,60/40 + trend filter,BND,0.4
+2020-11-03,60/40 + trend filter,VGLT,0.0
+2020-11-03,60/40 + trend filter,VCIT,0.0
+2020-11-03,60/40 + trend filter,SCHP,0.0
+2020-11-03,60/40 + trend filter,VNQ,0.0
+2020-11-03,60/40 + trend filter,IAU,0.0
+2020-11-03,60/40 + trend filter,SHV,0.0
+2020-12-03,60/40 + trend filter,VOO,0.6
+2020-12-03,60/40 + trend filter,IJR,0.0
+2020-12-03,60/40 + trend filter,VEA,0.0
+2020-12-03,60/40 + trend filter,VWO,0.0
+2020-12-03,60/40 + trend filter,BND,0.4
+2020-12-03,60/40 + trend filter,VGLT,0.0
+2020-12-03,60/40 + trend filter,VCIT,0.0
+2020-12-03,60/40 + trend filter,SCHP,0.0
+2020-12-03,60/40 + trend filter,VNQ,0.0
+2020-12-03,60/40 + trend filter,IAU,0.0
+2020-12-03,60/40 + trend filter,SHV,0.0
+2021-01-05,60/40 + trend filter,VOO,0.6
+2021-01-05,60/40 + trend filter,IJR,0.0
+2021-01-05,60/40 + trend filter,VEA,0.0
+2021-01-05,60/40 + trend filter,VWO,0.0
+2021-01-05,60/40 + trend filter,BND,0.4
+2021-01-05,60/40 + trend filter,VGLT,0.0
+2021-01-05,60/40 + trend filter,VCIT,0.0
+2021-01-05,60/40 + trend filter,SCHP,0.0
+2021-01-05,60/40 + trend filter,VNQ,0.0
+2021-01-05,60/40 + trend filter,IAU,0.0
+2021-01-05,60/40 + trend filter,SHV,0.0
+2021-02-04,60/40 + trend filter,VOO,0.6
+2021-02-04,60/40 + trend filter,IJR,0.0
+2021-02-04,60/40 + trend filter,VEA,0.0
+2021-02-04,60/40 + trend filter,VWO,0.0
+2021-02-04,60/40 + trend filter,BND,0.4
+2021-02-04,60/40 + trend filter,VGLT,0.0
+2021-02-04,60/40 + trend filter,VCIT,0.0
+2021-02-04,60/40 + trend filter,SCHP,0.0
+2021-02-04,60/40 + trend filter,VNQ,0.0
+2021-02-04,60/40 + trend filter,IAU,0.0
+2021-02-04,60/40 + trend filter,SHV,0.0
+2021-03-08,60/40 + trend filter,VOO,0.6
+2021-03-08,60/40 + trend filter,IJR,0.0
+2021-03-08,60/40 + trend filter,VEA,0.0
+2021-03-08,60/40 + trend filter,VWO,0.0
+2021-03-08,60/40 + trend filter,BND,0.4
+2021-03-08,60/40 + trend filter,VGLT,0.0
+2021-03-08,60/40 + trend filter,VCIT,0.0
+2021-03-08,60/40 + trend filter,SCHP,0.0
+2021-03-08,60/40 + trend filter,VNQ,0.0
+2021-03-08,60/40 + trend filter,IAU,0.0
+2021-03-08,60/40 + trend filter,SHV,0.0
+2021-04-07,60/40 + trend filter,VOO,0.6
+2021-04-07,60/40 + trend filter,IJR,0.0
+2021-04-07,60/40 + trend filter,VEA,0.0
+2021-04-07,60/40 + trend filter,VWO,0.0
+2021-04-07,60/40 + trend filter,BND,0.4
+2021-04-07,60/40 + trend filter,VGLT,0.0
+2021-04-07,60/40 + trend filter,VCIT,0.0
+2021-04-07,60/40 + trend filter,SCHP,0.0
+2021-04-07,60/40 + trend filter,VNQ,0.0
+2021-04-07,60/40 + trend filter,IAU,0.0
+2021-04-07,60/40 + trend filter,SHV,0.0
+2021-05-06,60/40 + trend filter,VOO,0.6
+2021-05-06,60/40 + trend filter,IJR,0.0
+2021-05-06,60/40 + trend filter,VEA,0.0
+2021-05-06,60/40 + trend filter,VWO,0.0
+2021-05-06,60/40 + trend filter,BND,0.4
+2021-05-06,60/40 + trend filter,VGLT,0.0
+2021-05-06,60/40 + trend filter,VCIT,0.0
+2021-05-06,60/40 + trend filter,SCHP,0.0
+2021-05-06,60/40 + trend filter,VNQ,0.0
+2021-05-06,60/40 + trend filter,IAU,0.0
+2021-05-06,60/40 + trend filter,SHV,0.0
+2021-06-07,60/40 + trend filter,VOO,0.6
+2021-06-07,60/40 + trend filter,IJR,0.0
+2021-06-07,60/40 + trend filter,VEA,0.0
+2021-06-07,60/40 + trend filter,VWO,0.0
+2021-06-07,60/40 + trend filter,BND,0.4
+2021-06-07,60/40 + trend filter,VGLT,0.0
+2021-06-07,60/40 + trend filter,VCIT,0.0
+2021-06-07,60/40 + trend filter,SCHP,0.0
+2021-06-07,60/40 + trend filter,VNQ,0.0
+2021-06-07,60/40 + trend filter,IAU,0.0
+2021-06-07,60/40 + trend filter,SHV,0.0
+2021-07-07,60/40 + trend filter,VOO,0.6
+2021-07-07,60/40 + trend filter,IJR,0.0
+2021-07-07,60/40 + trend filter,VEA,0.0
+2021-07-07,60/40 + trend filter,VWO,0.0
+2021-07-07,60/40 + trend filter,BND,0.4
+2021-07-07,60/40 + trend filter,VGLT,0.0
+2021-07-07,60/40 + trend filter,VCIT,0.0
+2021-07-07,60/40 + trend filter,SCHP,0.0
+2021-07-07,60/40 + trend filter,VNQ,0.0
+2021-07-07,60/40 + trend filter,IAU,0.0
+2021-07-07,60/40 + trend filter,SHV,0.0
+2021-08-05,60/40 + trend filter,VOO,0.6
+2021-08-05,60/40 + trend filter,IJR,0.0
+2021-08-05,60/40 + trend filter,VEA,0.0
+2021-08-05,60/40 + trend filter,VWO,0.0
+2021-08-05,60/40 + trend filter,BND,0.4
+2021-08-05,60/40 + trend filter,VGLT,0.0
+2021-08-05,60/40 + trend filter,VCIT,0.0
+2021-08-05,60/40 + trend filter,SCHP,0.0
+2021-08-05,60/40 + trend filter,VNQ,0.0
+2021-08-05,60/40 + trend filter,IAU,0.0
+2021-08-05,60/40 + trend filter,SHV,0.0
+2021-09-03,60/40 + trend filter,VOO,0.6
+2021-09-03,60/40 + trend filter,IJR,0.0
+2021-09-03,60/40 + trend filter,VEA,0.0
+2021-09-03,60/40 + trend filter,VWO,0.0
+2021-09-03,60/40 + trend filter,BND,0.4
+2021-09-03,60/40 + trend filter,VGLT,0.0
+2021-09-03,60/40 + trend filter,VCIT,0.0
+2021-09-03,60/40 + trend filter,SCHP,0.0
+2021-09-03,60/40 + trend filter,VNQ,0.0
+2021-09-03,60/40 + trend filter,IAU,0.0
+2021-09-03,60/40 + trend filter,SHV,0.0
+2021-10-05,60/40 + trend filter,VOO,0.6
+2021-10-05,60/40 + trend filter,IJR,0.0
+2021-10-05,60/40 + trend filter,VEA,0.0
+2021-10-05,60/40 + trend filter,VWO,0.0
+2021-10-05,60/40 + trend filter,BND,0.4
+2021-10-05,60/40 + trend filter,VGLT,0.0
+2021-10-05,60/40 + trend filter,VCIT,0.0
+2021-10-05,60/40 + trend filter,SCHP,0.0
+2021-10-05,60/40 + trend filter,VNQ,0.0
+2021-10-05,60/40 + trend filter,IAU,0.0
+2021-10-05,60/40 + trend filter,SHV,0.0
+2021-11-03,60/40 + trend filter,VOO,0.6
+2021-11-03,60/40 + trend filter,IJR,0.0
+2021-11-03,60/40 + trend filter,VEA,0.0
+2021-11-03,60/40 + trend filter,VWO,0.0
+2021-11-03,60/40 + trend filter,BND,0.4
+2021-11-03,60/40 + trend filter,VGLT,0.0
+2021-11-03,60/40 + trend filter,VCIT,0.0
+2021-11-03,60/40 + trend filter,SCHP,0.0
+2021-11-03,60/40 + trend filter,VNQ,0.0
+2021-11-03,60/40 + trend filter,IAU,0.0
+2021-11-03,60/40 + trend filter,SHV,0.0
+2021-12-03,60/40 + trend filter,VOO,0.6
+2021-12-03,60/40 + trend filter,IJR,0.0
+2021-12-03,60/40 + trend filter,VEA,0.0
+2021-12-03,60/40 + trend filter,VWO,0.0
+2021-12-03,60/40 + trend filter,BND,0.4
+2021-12-03,60/40 + trend filter,VGLT,0.0
+2021-12-03,60/40 + trend filter,VCIT,0.0
+2021-12-03,60/40 + trend filter,SCHP,0.0
+2021-12-03,60/40 + trend filter,VNQ,0.0
+2021-12-03,60/40 + trend filter,IAU,0.0
+2021-12-03,60/40 + trend filter,SHV,0.0
+2022-01-04,60/40 + trend filter,VOO,0.6
+2022-01-04,60/40 + trend filter,IJR,0.0
+2022-01-04,60/40 + trend filter,VEA,0.0
+2022-01-04,60/40 + trend filter,VWO,0.0
+2022-01-04,60/40 + trend filter,BND,0.4
+2022-01-04,60/40 + trend filter,VGLT,0.0
+2022-01-04,60/40 + trend filter,VCIT,0.0
+2022-01-04,60/40 + trend filter,SCHP,0.0
+2022-01-04,60/40 + trend filter,VNQ,0.0
+2022-01-04,60/40 + trend filter,IAU,0.0
+2022-01-04,60/40 + trend filter,SHV,0.0
+2022-02-03,60/40 + trend filter,VOO,0.6
+2022-02-03,60/40 + trend filter,IJR,0.0
+2022-02-03,60/40 + trend filter,VEA,0.0
+2022-02-03,60/40 + trend filter,VWO,0.0
+2022-02-03,60/40 + trend filter,BND,0.4
+2022-02-03,60/40 + trend filter,VGLT,0.0
+2022-02-03,60/40 + trend filter,VCIT,0.0
+2022-02-03,60/40 + trend filter,SCHP,0.0
+2022-02-03,60/40 + trend filter,VNQ,0.0
+2022-02-03,60/40 + trend filter,IAU,0.0
+2022-02-03,60/40 + trend filter,SHV,0.0
+2022-03-07,60/40 + trend filter,VOO,0.0
+2022-03-07,60/40 + trend filter,IJR,0.0
+2022-03-07,60/40 + trend filter,VEA,0.0
+2022-03-07,60/40 + trend filter,VWO,0.0
+2022-03-07,60/40 + trend filter,BND,0.4
+2022-03-07,60/40 + trend filter,VGLT,0.0
+2022-03-07,60/40 + trend filter,VCIT,0.0
+2022-03-07,60/40 + trend filter,SCHP,0.0
+2022-03-07,60/40 + trend filter,VNQ,0.0
+2022-03-07,60/40 + trend filter,IAU,0.0
+2022-03-07,60/40 + trend filter,SHV,0.6
+2022-04-05,60/40 + trend filter,VOO,0.6
+2022-04-05,60/40 + trend filter,IJR,0.0
+2022-04-05,60/40 + trend filter,VEA,0.0
+2022-04-05,60/40 + trend filter,VWO,0.0
+2022-04-05,60/40 + trend filter,BND,0.4
+2022-04-05,60/40 + trend filter,VGLT,0.0
+2022-04-05,60/40 + trend filter,VCIT,0.0
+2022-04-05,60/40 + trend filter,SCHP,0.0
+2022-04-05,60/40 + trend filter,VNQ,0.0
+2022-04-05,60/40 + trend filter,IAU,0.0
+2022-04-05,60/40 + trend filter,SHV,0.0
+2022-05-05,60/40 + trend filter,VOO,0.0
+2022-05-05,60/40 + trend filter,IJR,0.0
+2022-05-05,60/40 + trend filter,VEA,0.0
+2022-05-05,60/40 + trend filter,VWO,0.0
+2022-05-05,60/40 + trend filter,BND,0.4
+2022-05-05,60/40 + trend filter,VGLT,0.0
+2022-05-05,60/40 + trend filter,VCIT,0.0
+2022-05-05,60/40 + trend filter,SCHP,0.0
+2022-05-05,60/40 + trend filter,VNQ,0.0
+2022-05-05,60/40 + trend filter,IAU,0.0
+2022-05-05,60/40 + trend filter,SHV,0.6
+2022-06-06,60/40 + trend filter,VOO,0.0
+2022-06-06,60/40 + trend filter,IJR,0.0
+2022-06-06,60/40 + trend filter,VEA,0.0
+2022-06-06,60/40 + trend filter,VWO,0.0
+2022-06-06,60/40 + trend filter,BND,0.4
+2022-06-06,60/40 + trend filter,VGLT,0.0
+2022-06-06,60/40 + trend filter,VCIT,0.0
+2022-06-06,60/40 + trend filter,SCHP,0.0
+2022-06-06,60/40 + trend filter,VNQ,0.0
+2022-06-06,60/40 + trend filter,IAU,0.0
+2022-06-06,60/40 + trend filter,SHV,0.6
+2022-07-07,60/40 + trend filter,VOO,0.0
+2022-07-07,60/40 + trend filter,IJR,0.0
+2022-07-07,60/40 + trend filter,VEA,0.0
+2022-07-07,60/40 + trend filter,VWO,0.0
+2022-07-07,60/40 + trend filter,BND,0.4
+2022-07-07,60/40 + trend filter,VGLT,0.0
+2022-07-07,60/40 + trend filter,VCIT,0.0
+2022-07-07,60/40 + trend filter,SCHP,0.0
+2022-07-07,60/40 + trend filter,VNQ,0.0
+2022-07-07,60/40 + trend filter,IAU,0.0
+2022-07-07,60/40 + trend filter,SHV,0.6
+2022-08-05,60/40 + trend filter,VOO,0.0
+2022-08-05,60/40 + trend filter,IJR,0.0
+2022-08-05,60/40 + trend filter,VEA,0.0
+2022-08-05,60/40 + trend filter,VWO,0.0
+2022-08-05,60/40 + trend filter,BND,0.4
+2022-08-05,60/40 + trend filter,VGLT,0.0
+2022-08-05,60/40 + trend filter,VCIT,0.0
+2022-08-05,60/40 + trend filter,SCHP,0.0
+2022-08-05,60/40 + trend filter,VNQ,0.0
+2022-08-05,60/40 + trend filter,IAU,0.0
+2022-08-05,60/40 + trend filter,SHV,0.6
+2022-09-06,60/40 + trend filter,VOO,0.0
+2022-09-06,60/40 + trend filter,IJR,0.0
+2022-09-06,60/40 + trend filter,VEA,0.0
+2022-09-06,60/40 + trend filter,VWO,0.0
+2022-09-06,60/40 + trend filter,BND,0.4
+2022-09-06,60/40 + trend filter,VGLT,0.0
+2022-09-06,60/40 + trend filter,VCIT,0.0
+2022-09-06,60/40 + trend filter,SCHP,0.0
+2022-09-06,60/40 + trend filter,VNQ,0.0
+2022-09-06,60/40 + trend filter,IAU,0.0
+2022-09-06,60/40 + trend filter,SHV,0.6
+2022-10-05,60/40 + trend filter,VOO,0.0
+2022-10-05,60/40 + trend filter,IJR,0.0
+2022-10-05,60/40 + trend filter,VEA,0.0
+2022-10-05,60/40 + trend filter,VWO,0.0
+2022-10-05,60/40 + trend filter,BND,0.4
+2022-10-05,60/40 + trend filter,VGLT,0.0
+2022-10-05,60/40 + trend filter,VCIT,0.0
+2022-10-05,60/40 + trend filter,SCHP,0.0
+2022-10-05,60/40 + trend filter,VNQ,0.0
+2022-10-05,60/40 + trend filter,IAU,0.0
+2022-10-05,60/40 + trend filter,SHV,0.6
+2022-11-03,60/40 + trend filter,VOO,0.0
+2022-11-03,60/40 + trend filter,IJR,0.0
+2022-11-03,60/40 + trend filter,VEA,0.0
+2022-11-03,60/40 + trend filter,VWO,0.0
+2022-11-03,60/40 + trend filter,BND,0.4
+2022-11-03,60/40 + trend filter,VGLT,0.0
+2022-11-03,60/40 + trend filter,VCIT,0.0
+2022-11-03,60/40 + trend filter,SCHP,0.0
+2022-11-03,60/40 + trend filter,VNQ,0.0
+2022-11-03,60/40 + trend filter,IAU,0.0
+2022-11-03,60/40 + trend filter,SHV,0.6
+2022-12-05,60/40 + trend filter,VOO,0.6
+2022-12-05,60/40 + trend filter,IJR,0.0
+2022-12-05,60/40 + trend filter,VEA,0.0
+2022-12-05,60/40 + trend filter,VWO,0.0
+2022-12-05,60/40 + trend filter,BND,0.4
+2022-12-05,60/40 + trend filter,VGLT,0.0
+2022-12-05,60/40 + trend filter,VCIT,0.0
+2022-12-05,60/40 + trend filter,SCHP,0.0
+2022-12-05,60/40 + trend filter,VNQ,0.0
+2022-12-05,60/40 + trend filter,IAU,0.0
+2022-12-05,60/40 + trend filter,SHV,0.0
+2023-01-05,60/40 + trend filter,VOO,0.0
+2023-01-05,60/40 + trend filter,IJR,0.0
+2023-01-05,60/40 + trend filter,VEA,0.0
+2023-01-05,60/40 + trend filter,VWO,0.0
+2023-01-05,60/40 + trend filter,BND,0.4
+2023-01-05,60/40 + trend filter,VGLT,0.0
+2023-01-05,60/40 + trend filter,VCIT,0.0
+2023-01-05,60/40 + trend filter,SCHP,0.0
+2023-01-05,60/40 + trend filter,VNQ,0.0
+2023-01-05,60/40 + trend filter,IAU,0.0
+2023-01-05,60/40 + trend filter,SHV,0.6
+2023-02-06,60/40 + trend filter,VOO,0.6
+2023-02-06,60/40 + trend filter,IJR,0.0
+2023-02-06,60/40 + trend filter,VEA,0.0
+2023-02-06,60/40 + trend filter,VWO,0.0
+2023-02-06,60/40 + trend filter,BND,0.4
+2023-02-06,60/40 + trend filter,VGLT,0.0
+2023-02-06,60/40 + trend filter,VCIT,0.0
+2023-02-06,60/40 + trend filter,SCHP,0.0
+2023-02-06,60/40 + trend filter,VNQ,0.0
+2023-02-06,60/40 + trend filter,IAU,0.0
+2023-02-06,60/40 + trend filter,SHV,0.0
+2023-03-08,60/40 + trend filter,VOO,0.6
+2023-03-08,60/40 + trend filter,IJR,0.0
+2023-03-08,60/40 + trend filter,VEA,0.0
+2023-03-08,60/40 + trend filter,VWO,0.0
+2023-03-08,60/40 + trend filter,BND,0.4
+2023-03-08,60/40 + trend filter,VGLT,0.0
+2023-03-08,60/40 + trend filter,VCIT,0.0
+2023-03-08,60/40 + trend filter,SCHP,0.0
+2023-03-08,60/40 + trend filter,VNQ,0.0
+2023-03-08,60/40 + trend filter,IAU,0.0
+2023-03-08,60/40 + trend filter,SHV,0.0
+2023-04-06,60/40 + trend filter,VOO,0.6
+2023-04-06,60/40 + trend filter,IJR,0.0
+2023-04-06,60/40 + trend filter,VEA,0.0
+2023-04-06,60/40 + trend filter,VWO,0.0
+2023-04-06,60/40 + trend filter,BND,0.4
+2023-04-06,60/40 + trend filter,VGLT,0.0
+2023-04-06,60/40 + trend filter,VCIT,0.0
+2023-04-06,60/40 + trend filter,SCHP,0.0
+2023-04-06,60/40 + trend filter,VNQ,0.0
+2023-04-06,60/40 + trend filter,IAU,0.0
+2023-04-06,60/40 + trend filter,SHV,0.0
+2023-05-08,60/40 + trend filter,VOO,0.6
+2023-05-08,60/40 + trend filter,IJR,0.0
+2023-05-08,60/40 + trend filter,VEA,0.0
+2023-05-08,60/40 + trend filter,VWO,0.0
+2023-05-08,60/40 + trend filter,BND,0.4
+2023-05-08,60/40 + trend filter,VGLT,0.0
+2023-05-08,60/40 + trend filter,VCIT,0.0
+2023-05-08,60/40 + trend filter,SCHP,0.0
+2023-05-08,60/40 + trend filter,VNQ,0.0
+2023-05-08,60/40 + trend filter,IAU,0.0
+2023-05-08,60/40 + trend filter,SHV,0.0
+2023-06-07,60/40 + trend filter,VOO,0.6
+2023-06-07,60/40 + trend filter,IJR,0.0
+2023-06-07,60/40 + trend filter,VEA,0.0
+2023-06-07,60/40 + trend filter,VWO,0.0
+2023-06-07,60/40 + trend filter,BND,0.4
+2023-06-07,60/40 + trend filter,VGLT,0.0
+2023-06-07,60/40 + trend filter,VCIT,0.0
+2023-06-07,60/40 + trend filter,SCHP,0.0
+2023-06-07,60/40 + trend filter,VNQ,0.0
+2023-06-07,60/40 + trend filter,IAU,0.0
+2023-06-07,60/40 + trend filter,SHV,0.0
+2023-07-10,60/40 + trend filter,VOO,0.6
+2023-07-10,60/40 + trend filter,IJR,0.0
+2023-07-10,60/40 + trend filter,VEA,0.0
+2023-07-10,60/40 + trend filter,VWO,0.0
+2023-07-10,60/40 + trend filter,BND,0.4
+2023-07-10,60/40 + trend filter,VGLT,0.0
+2023-07-10,60/40 + trend filter,VCIT,0.0
+2023-07-10,60/40 + trend filter,SCHP,0.0
+2023-07-10,60/40 + trend filter,VNQ,0.0
+2023-07-10,60/40 + trend filter,IAU,0.0
+2023-07-10,60/40 + trend filter,SHV,0.0
+2023-08-08,60/40 + trend filter,VOO,0.6
+2023-08-08,60/40 + trend filter,IJR,0.0
+2023-08-08,60/40 + trend filter,VEA,0.0
+2023-08-08,60/40 + trend filter,VWO,0.0
+2023-08-08,60/40 + trend filter,BND,0.4
+2023-08-08,60/40 + trend filter,VGLT,0.0
+2023-08-08,60/40 + trend filter,VCIT,0.0
+2023-08-08,60/40 + trend filter,SCHP,0.0
+2023-08-08,60/40 + trend filter,VNQ,0.0
+2023-08-08,60/40 + trend filter,IAU,0.0
+2023-08-08,60/40 + trend filter,SHV,0.0
+2023-09-07,60/40 + trend filter,VOO,0.6
+2023-09-07,60/40 + trend filter,IJR,0.0
+2023-09-07,60/40 + trend filter,VEA,0.0
+2023-09-07,60/40 + trend filter,VWO,0.0
+2023-09-07,60/40 + trend filter,BND,0.4
+2023-09-07,60/40 + trend filter,VGLT,0.0
+2023-09-07,60/40 + trend filter,VCIT,0.0
+2023-09-07,60/40 + trend filter,SCHP,0.0
+2023-09-07,60/40 + trend filter,VNQ,0.0
+2023-09-07,60/40 + trend filter,IAU,0.0
+2023-09-07,60/40 + trend filter,SHV,0.0
+2023-10-06,60/40 + trend filter,VOO,0.6
+2023-10-06,60/40 + trend filter,IJR,0.0
+2023-10-06,60/40 + trend filter,VEA,0.0
+2023-10-06,60/40 + trend filter,VWO,0.0
+2023-10-06,60/40 + trend filter,BND,0.4
+2023-10-06,60/40 + trend filter,VGLT,0.0
+2023-10-06,60/40 + trend filter,VCIT,0.0
+2023-10-06,60/40 + trend filter,SCHP,0.0
+2023-10-06,60/40 + trend filter,VNQ,0.0
+2023-10-06,60/40 + trend filter,IAU,0.0
+2023-10-06,60/40 + trend filter,SHV,0.0
+2023-11-06,60/40 + trend filter,VOO,0.6
+2023-11-06,60/40 + trend filter,IJR,0.0
+2023-11-06,60/40 + trend filter,VEA,0.0
+2023-11-06,60/40 + trend filter,VWO,0.0
+2023-11-06,60/40 + trend filter,BND,0.4
+2023-11-06,60/40 + trend filter,VGLT,0.0
+2023-11-06,60/40 + trend filter,VCIT,0.0
+2023-11-06,60/40 + trend filter,SCHP,0.0
+2023-11-06,60/40 + trend filter,VNQ,0.0
+2023-11-06,60/40 + trend filter,IAU,0.0
+2023-11-06,60/40 + trend filter,SHV,0.0
+2023-12-06,60/40 + trend filter,VOO,0.6
+2023-12-06,60/40 + trend filter,IJR,0.0
+2023-12-06,60/40 + trend filter,VEA,0.0
+2023-12-06,60/40 + trend filter,VWO,0.0
+2023-12-06,60/40 + trend filter,BND,0.4
+2023-12-06,60/40 + trend filter,VGLT,0.0
+2023-12-06,60/40 + trend filter,VCIT,0.0
+2023-12-06,60/40 + trend filter,SCHP,0.0
+2023-12-06,60/40 + trend filter,VNQ,0.0
+2023-12-06,60/40 + trend filter,IAU,0.0
+2023-12-06,60/40 + trend filter,SHV,0.0
+2024-01-08,60/40 + trend filter,VOO,0.6
+2024-01-08,60/40 + trend filter,IJR,0.0
+2024-01-08,60/40 + trend filter,VEA,0.0
+2024-01-08,60/40 + trend filter,VWO,0.0
+2024-01-08,60/40 + trend filter,BND,0.4
+2024-01-08,60/40 + trend filter,VGLT,0.0
+2024-01-08,60/40 + trend filter,VCIT,0.0
+2024-01-08,60/40 + trend filter,SCHP,0.0
+2024-01-08,60/40 + trend filter,VNQ,0.0
+2024-01-08,60/40 + trend filter,IAU,0.0
+2024-01-08,60/40 + trend filter,SHV,0.0
+2024-02-07,60/40 + trend filter,VOO,0.6
+2024-02-07,60/40 + trend filter,IJR,0.0
+2024-02-07,60/40 + trend filter,VEA,0.0
+2024-02-07,60/40 + trend filter,VWO,0.0
+2024-02-07,60/40 + trend filter,BND,0.4
+2024-02-07,60/40 + trend filter,VGLT,0.0
+2024-02-07,60/40 + trend filter,VCIT,0.0
+2024-02-07,60/40 + trend filter,SCHP,0.0
+2024-02-07,60/40 + trend filter,VNQ,0.0
+2024-02-07,60/40 + trend filter,IAU,0.0
+2024-02-07,60/40 + trend filter,SHV,0.0
+2024-03-08,60/40 + trend filter,VOO,0.6
+2024-03-08,60/40 + trend filter,IJR,0.0
+2024-03-08,60/40 + trend filter,VEA,0.0
+2024-03-08,60/40 + trend filter,VWO,0.0
+2024-03-08,60/40 + trend filter,BND,0.4
+2024-03-08,60/40 + trend filter,VGLT,0.0
+2024-03-08,60/40 + trend filter,VCIT,0.0
+2024-03-08,60/40 + trend filter,SCHP,0.0
+2024-03-08,60/40 + trend filter,VNQ,0.0
+2024-03-08,60/40 + trend filter,IAU,0.0
+2024-03-08,60/40 + trend filter,SHV,0.0
+2024-04-09,60/40 + trend filter,VOO,0.6
+2024-04-09,60/40 + trend filter,IJR,0.0
+2024-04-09,60/40 + trend filter,VEA,0.0
+2024-04-09,60/40 + trend filter,VWO,0.0
+2024-04-09,60/40 + trend filter,BND,0.4
+2024-04-09,60/40 + trend filter,VGLT,0.0
+2024-04-09,60/40 + trend filter,VCIT,0.0
+2024-04-09,60/40 + trend filter,SCHP,0.0
+2024-04-09,60/40 + trend filter,VNQ,0.0
+2024-04-09,60/40 + trend filter,IAU,0.0
+2024-04-09,60/40 + trend filter,SHV,0.0
+2024-05-08,60/40 + trend filter,VOO,0.6
+2024-05-08,60/40 + trend filter,IJR,0.0
+2024-05-08,60/40 + trend filter,VEA,0.0
+2024-05-08,60/40 + trend filter,VWO,0.0
+2024-05-08,60/40 + trend filter,BND,0.4
+2024-05-08,60/40 + trend filter,VGLT,0.0
+2024-05-08,60/40 + trend filter,VCIT,0.0
+2024-05-08,60/40 + trend filter,SCHP,0.0
+2024-05-08,60/40 + trend filter,VNQ,0.0
+2024-05-08,60/40 + trend filter,IAU,0.0
+2024-05-08,60/40 + trend filter,SHV,0.0
+2024-06-07,60/40 + trend filter,VOO,0.6
+2024-06-07,60/40 + trend filter,IJR,0.0
+2024-06-07,60/40 + trend filter,VEA,0.0
+2024-06-07,60/40 + trend filter,VWO,0.0
+2024-06-07,60/40 + trend filter,BND,0.4
+2024-06-07,60/40 + trend filter,VGLT,0.0
+2024-06-07,60/40 + trend filter,VCIT,0.0
+2024-06-07,60/40 + trend filter,SCHP,0.0
+2024-06-07,60/40 + trend filter,VNQ,0.0
+2024-06-07,60/40 + trend filter,IAU,0.0
+2024-06-07,60/40 + trend filter,SHV,0.0
+2024-07-10,60/40 + trend filter,VOO,0.6
+2024-07-10,60/40 + trend filter,IJR,0.0
+2024-07-10,60/40 + trend filter,VEA,0.0
+2024-07-10,60/40 + trend filter,VWO,0.0
+2024-07-10,60/40 + trend filter,BND,0.4
+2024-07-10,60/40 + trend filter,VGLT,0.0
+2024-07-10,60/40 + trend filter,VCIT,0.0
+2024-07-10,60/40 + trend filter,SCHP,0.0
+2024-07-10,60/40 + trend filter,VNQ,0.0
+2024-07-10,60/40 + trend filter,IAU,0.0
+2024-07-10,60/40 + trend filter,SHV,0.0
+2024-08-08,60/40 + trend filter,VOO,0.6
+2024-08-08,60/40 + trend filter,IJR,0.0
+2024-08-08,60/40 + trend filter,VEA,0.0
+2024-08-08,60/40 + trend filter,VWO,0.0
+2024-08-08,60/40 + trend filter,BND,0.4
+2024-08-08,60/40 + trend filter,VGLT,0.0
+2024-08-08,60/40 + trend filter,VCIT,0.0
+2024-08-08,60/40 + trend filter,SCHP,0.0
+2024-08-08,60/40 + trend filter,VNQ,0.0
+2024-08-08,60/40 + trend filter,IAU,0.0
+2024-08-08,60/40 + trend filter,SHV,0.0
+2024-09-09,60/40 + trend filter,VOO,0.6
+2024-09-09,60/40 + trend filter,IJR,0.0
+2024-09-09,60/40 + trend filter,VEA,0.0
+2024-09-09,60/40 + trend filter,VWO,0.0
+2024-09-09,60/40 + trend filter,BND,0.4
+2024-09-09,60/40 + trend filter,VGLT,0.0
+2024-09-09,60/40 + trend filter,VCIT,0.0
+2024-09-09,60/40 + trend filter,SCHP,0.0
+2024-09-09,60/40 + trend filter,VNQ,0.0
+2024-09-09,60/40 + trend filter,IAU,0.0
+2024-09-09,60/40 + trend filter,SHV,0.0
+2024-10-08,60/40 + trend filter,VOO,0.6
+2024-10-08,60/40 + trend filter,IJR,0.0
+2024-10-08,60/40 + trend filter,VEA,0.0
+2024-10-08,60/40 + trend filter,VWO,0.0
+2024-10-08,60/40 + trend filter,BND,0.4
+2024-10-08,60/40 + trend filter,VGLT,0.0
+2024-10-08,60/40 + trend filter,VCIT,0.0
+2024-10-08,60/40 + trend filter,SCHP,0.0
+2024-10-08,60/40 + trend filter,VNQ,0.0
+2024-10-08,60/40 + trend filter,IAU,0.0
+2024-10-08,60/40 + trend filter,SHV,0.0
+2024-11-06,60/40 + trend filter,VOO,0.6
+2024-11-06,60/40 + trend filter,IJR,0.0
+2024-11-06,60/40 + trend filter,VEA,0.0
+2024-11-06,60/40 + trend filter,VWO,0.0
+2024-11-06,60/40 + trend filter,BND,0.4
+2024-11-06,60/40 + trend filter,VGLT,0.0
+2024-11-06,60/40 + trend filter,VCIT,0.0
+2024-11-06,60/40 + trend filter,SCHP,0.0
+2024-11-06,60/40 + trend filter,VNQ,0.0
+2024-11-06,60/40 + trend filter,IAU,0.0
+2024-11-06,60/40 + trend filter,SHV,0.0
+2024-12-06,60/40 + trend filter,VOO,0.6
+2024-12-06,60/40 + trend filter,IJR,0.0
+2024-12-06,60/40 + trend filter,VEA,0.0
+2024-12-06,60/40 + trend filter,VWO,0.0
+2024-12-06,60/40 + trend filter,BND,0.4
+2024-12-06,60/40 + trend filter,VGLT,0.0
+2024-12-06,60/40 + trend filter,VCIT,0.0
+2024-12-06,60/40 + trend filter,SCHP,0.0
+2024-12-06,60/40 + trend filter,VNQ,0.0
+2024-12-06,60/40 + trend filter,IAU,0.0
+2024-12-06,60/40 + trend filter,SHV,0.0
+2025-01-08,60/40 + trend filter,VOO,0.6
+2025-01-08,60/40 + trend filter,IJR,0.0
+2025-01-08,60/40 + trend filter,VEA,0.0
+2025-01-08,60/40 + trend filter,VWO,0.0
+2025-01-08,60/40 + trend filter,BND,0.4
+2025-01-08,60/40 + trend filter,VGLT,0.0
+2025-01-08,60/40 + trend filter,VCIT,0.0
+2025-01-08,60/40 + trend filter,SCHP,0.0
+2025-01-08,60/40 + trend filter,VNQ,0.0
+2025-01-08,60/40 + trend filter,IAU,0.0
+2025-01-08,60/40 + trend filter,SHV,0.0
+2025-02-10,60/40 + trend filter,VOO,0.6
+2025-02-10,60/40 + trend filter,IJR,0.0
+2025-02-10,60/40 + trend filter,VEA,0.0
+2025-02-10,60/40 + trend filter,VWO,0.0
+2025-02-10,60/40 + trend filter,BND,0.4
+2025-02-10,60/40 + trend filter,VGLT,0.0
+2025-02-10,60/40 + trend filter,VCIT,0.0
+2025-02-10,60/40 + trend filter,SCHP,0.0
+2025-02-10,60/40 + trend filter,VNQ,0.0
+2025-02-10,60/40 + trend filter,IAU,0.0
+2025-02-10,60/40 + trend filter,SHV,0.0
+2025-03-12,60/40 + trend filter,VOO,0.0
+2025-03-12,60/40 + trend filter,IJR,0.0
+2025-03-12,60/40 + trend filter,VEA,0.0
+2025-03-12,60/40 + trend filter,VWO,0.0
+2025-03-12,60/40 + trend filter,BND,0.4
+2025-03-12,60/40 + trend filter,VGLT,0.0
+2025-03-12,60/40 + trend filter,VCIT,0.0
+2025-03-12,60/40 + trend filter,SCHP,0.0
+2025-03-12,60/40 + trend filter,VNQ,0.0
+2025-03-12,60/40 + trend filter,IAU,0.0
+2025-03-12,60/40 + trend filter,SHV,0.6
+2025-04-10,60/40 + trend filter,VOO,0.0
+2025-04-10,60/40 + trend filter,IJR,0.0
+2025-04-10,60/40 + trend filter,VEA,0.0
+2025-04-10,60/40 + trend filter,VWO,0.0
+2025-04-10,60/40 + trend filter,BND,0.4
+2025-04-10,60/40 + trend filter,VGLT,0.0
+2025-04-10,60/40 + trend filter,VCIT,0.0
+2025-04-10,60/40 + trend filter,SCHP,0.0
+2025-04-10,60/40 + trend filter,VNQ,0.0
+2025-04-10,60/40 + trend filter,IAU,0.0
+2025-04-10,60/40 + trend filter,SHV,0.6
+2025-05-12,60/40 + trend filter,VOO,0.0
+2025-05-12,60/40 + trend filter,IJR,0.0
+2025-05-12,60/40 + trend filter,VEA,0.0
+2025-05-12,60/40 + trend filter,VWO,0.0
+2025-05-12,60/40 + trend filter,BND,0.4
+2025-05-12,60/40 + trend filter,VGLT,0.0
+2025-05-12,60/40 + trend filter,VCIT,0.0
+2025-05-12,60/40 + trend filter,SCHP,0.0
+2025-05-12,60/40 + trend filter,VNQ,0.0
+2025-05-12,60/40 + trend filter,IAU,0.0
+2025-05-12,60/40 + trend filter,SHV,0.6
+2025-06-11,60/40 + trend filter,VOO,0.6
+2025-06-11,60/40 + trend filter,IJR,0.0
+2025-06-11,60/40 + trend filter,VEA,0.0
+2025-06-11,60/40 + trend filter,VWO,0.0
+2025-06-11,60/40 + trend filter,BND,0.4
+2025-06-11,60/40 + trend filter,VGLT,0.0
+2025-06-11,60/40 + trend filter,VCIT,0.0
+2025-06-11,60/40 + trend filter,SCHP,0.0
+2025-06-11,60/40 + trend filter,VNQ,0.0
+2025-06-11,60/40 + trend filter,IAU,0.0
+2025-06-11,60/40 + trend filter,SHV,0.0
+2025-07-14,60/40 + trend filter,VOO,0.6
+2025-07-14,60/40 + trend filter,IJR,0.0
+2025-07-14,60/40 + trend filter,VEA,0.0
+2025-07-14,60/40 + trend filter,VWO,0.0
+2025-07-14,60/40 + trend filter,BND,0.4
+2025-07-14,60/40 + trend filter,VGLT,0.0
+2025-07-14,60/40 + trend filter,VCIT,0.0
+2025-07-14,60/40 + trend filter,SCHP,0.0
+2025-07-14,60/40 + trend filter,VNQ,0.0
+2025-07-14,60/40 + trend filter,IAU,0.0
+2025-07-14,60/40 + trend filter,SHV,0.0
+2025-08-12,60/40 + trend filter,VOO,0.6
+2025-08-12,60/40 + trend filter,IJR,0.0
+2025-08-12,60/40 + trend filter,VEA,0.0
+2025-08-12,60/40 + trend filter,VWO,0.0
+2025-08-12,60/40 + trend filter,BND,0.4
+2025-08-12,60/40 + trend filter,VGLT,0.0
+2025-08-12,60/40 + trend filter,VCIT,0.0
+2025-08-12,60/40 + trend filter,SCHP,0.0
+2025-08-12,60/40 + trend filter,VNQ,0.0
+2025-08-12,60/40 + trend filter,IAU,0.0
+2025-08-12,60/40 + trend filter,SHV,0.0
+2025-09-11,60/40 + trend filter,VOO,0.6
+2025-09-11,60/40 + trend filter,IJR,0.0
+2025-09-11,60/40 + trend filter,VEA,0.0
+2025-09-11,60/40 + trend filter,VWO,0.0
+2025-09-11,60/40 + trend filter,BND,0.4
+2025-09-11,60/40 + trend filter,VGLT,0.0
+2025-09-11,60/40 + trend filter,VCIT,0.0
+2025-09-11,60/40 + trend filter,SCHP,0.0
+2025-09-11,60/40 + trend filter,VNQ,0.0
+2025-09-11,60/40 + trend filter,IAU,0.0
+2025-09-11,60/40 + trend filter,SHV,0.0
+2025-10-10,60/40 + trend filter,VOO,0.6
+2025-10-10,60/40 + trend filter,IJR,0.0
+2025-10-10,60/40 + trend filter,VEA,0.0
+2025-10-10,60/40 + trend filter,VWO,0.0
+2025-10-10,60/40 + trend filter,BND,0.4
+2025-10-10,60/40 + trend filter,VGLT,0.0
+2025-10-10,60/40 + trend filter,VCIT,0.0
+2025-10-10,60/40 + trend filter,SCHP,0.0
+2025-10-10,60/40 + trend filter,VNQ,0.0
+2025-10-10,60/40 + trend filter,IAU,0.0
+2025-10-10,60/40 + trend filter,SHV,0.0
+2025-11-10,60/40 + trend filter,VOO,0.6
+2025-11-10,60/40 + trend filter,IJR,0.0
+2025-11-10,60/40 + trend filter,VEA,0.0
+2025-11-10,60/40 + trend filter,VWO,0.0
+2025-11-10,60/40 + trend filter,BND,0.4
+2025-11-10,60/40 + trend filter,VGLT,0.0
+2025-11-10,60/40 + trend filter,VCIT,0.0
+2025-11-10,60/40 + trend filter,SCHP,0.0
+2025-11-10,60/40 + trend filter,VNQ,0.0
+2025-11-10,60/40 + trend filter,IAU,0.0
+2025-11-10,60/40 + trend filter,SHV,0.0
+2025-12-10,60/40 + trend filter,VOO,0.6
+2025-12-10,60/40 + trend filter,IJR,0.0
+2025-12-10,60/40 + trend filter,VEA,0.0
+2025-12-10,60/40 + trend filter,VWO,0.0
+2025-12-10,60/40 + trend filter,BND,0.4
+2025-12-10,60/40 + trend filter,VGLT,0.0
+2025-12-10,60/40 + trend filter,VCIT,0.0
+2025-12-10,60/40 + trend filter,SCHP,0.0
+2025-12-10,60/40 + trend filter,VNQ,0.0
+2025-12-10,60/40 + trend filter,IAU,0.0
+2025-12-10,60/40 + trend filter,SHV,0.0
+2026-01-12,60/40 + trend filter,VOO,0.6
+2026-01-12,60/40 + trend filter,IJR,0.0
+2026-01-12,60/40 + trend filter,VEA,0.0
+2026-01-12,60/40 + trend filter,VWO,0.0
+2026-01-12,60/40 + trend filter,BND,0.4
+2026-01-12,60/40 + trend filter,VGLT,0.0
+2026-01-12,60/40 + trend filter,VCIT,0.0
+2026-01-12,60/40 + trend filter,SCHP,0.0
+2026-01-12,60/40 + trend filter,VNQ,0.0
+2026-01-12,60/40 + trend filter,IAU,0.0
+2026-01-12,60/40 + trend filter,SHV,0.0
+2026-02-11,60/40 + trend filter,VOO,0.6
+2026-02-11,60/40 + trend filter,IJR,0.0
+2026-02-11,60/40 + trend filter,VEA,0.0
+2026-02-11,60/40 + trend filter,VWO,0.0
+2026-02-11,60/40 + trend filter,BND,0.4
+2026-02-11,60/40 + trend filter,VGLT,0.0
+2026-02-11,60/40 + trend filter,VCIT,0.0
+2026-02-11,60/40 + trend filter,SCHP,0.0
+2026-02-11,60/40 + trend filter,VNQ,0.0
+2026-02-11,60/40 + trend filter,IAU,0.0
+2026-02-11,60/40 + trend filter,SHV,0.0
+2026-03-13,60/40 + trend filter,VOO,0.6
+2026-03-13,60/40 + trend filter,IJR,0.0
+2026-03-13,60/40 + trend filter,VEA,0.0
+2026-03-13,60/40 + trend filter,VWO,0.0
+2026-03-13,60/40 + trend filter,BND,0.4
+2026-03-13,60/40 + trend filter,VGLT,0.0
+2026-03-13,60/40 + trend filter,VCIT,0.0
+2026-03-13,60/40 + trend filter,SCHP,0.0
+2026-03-13,60/40 + trend filter,VNQ,0.0
+2026-03-13,60/40 + trend filter,IAU,0.0
+2026-03-13,60/40 + trend filter,SHV,0.0
+2026-04-14,60/40 + trend filter,VOO,0.6
+2026-04-14,60/40 + trend filter,IJR,0.0
+2026-04-14,60/40 + trend filter,VEA,0.0
+2026-04-14,60/40 + trend filter,VWO,0.0
+2026-04-14,60/40 + trend filter,BND,0.4
+2026-04-14,60/40 + trend filter,VGLT,0.0
+2026-04-14,60/40 + trend filter,VCIT,0.0
+2026-04-14,60/40 + trend filter,SCHP,0.0
+2026-04-14,60/40 + trend filter,VNQ,0.0
+2026-04-14,60/40 + trend filter,IAU,0.0
+2026-04-14,60/40 + trend filter,SHV,0.0
+2026-05-13,60/40 + trend filter,VOO,0.6
+2026-05-13,60/40 + trend filter,IJR,0.0
+2026-05-13,60/40 + trend filter,VEA,0.0
+2026-05-13,60/40 + trend filter,VWO,0.0
+2026-05-13,60/40 + trend filter,BND,0.4
+2026-05-13,60/40 + trend filter,VGLT,0.0
+2026-05-13,60/40 + trend filter,VCIT,0.0
+2026-05-13,60/40 + trend filter,SCHP,0.0
+2026-05-13,60/40 + trend filter,VNQ,0.0
+2026-05-13,60/40 + trend filter,IAU,0.0
+2026-05-13,60/40 + trend filter,SHV,0.0
+2026-06-12,60/40 + trend filter,VOO,0.6
+2026-06-12,60/40 + trend filter,IJR,0.0
+2026-06-12,60/40 + trend filter,VEA,0.0
+2026-06-12,60/40 + trend filter,VWO,0.0
+2026-06-12,60/40 + trend filter,BND,0.4
+2026-06-12,60/40 + trend filter,VGLT,0.0
+2026-06-12,60/40 + trend filter,VCIT,0.0
+2026-06-12,60/40 + trend filter,SCHP,0.0
+2026-06-12,60/40 + trend filter,VNQ,0.0
+2026-06-12,60/40 + trend filter,IAU,0.0
+2026-06-12,60/40 + trend filter,SHV,0.0
+2026-07-15,60/40 + trend filter,VOO,0.6
+2026-07-15,60/40 + trend filter,IJR,0.0
+2026-07-15,60/40 + trend filter,VEA,0.0
+2026-07-15,60/40 + trend filter,VWO,0.0
+2026-07-15,60/40 + trend filter,BND,0.4
+2026-07-15,60/40 + trend filter,VGLT,0.0
+2026-07-15,60/40 + trend filter,VCIT,0.0
+2026-07-15,60/40 + trend filter,SCHP,0.0
+2026-07-15,60/40 + trend filter,VNQ,0.0
+2026-07-15,60/40 + trend filter,IAU,0.0
+2026-07-15,60/40 + trend filter,SHV,0.0
+2026-08-13,60/40 + trend filter,VOO,0.6
+2026-08-13,60/40 + trend filter,IJR,0.0
+2026-08-13,60/40 + trend filter,VEA,0.0
+2026-08-13,60/40 + trend filter,VWO,0.0
+2026-08-13,60/40 + trend filter,BND,0.4
+2026-08-13,60/40 + trend filter,VGLT,0.0
+2026-08-13,60/40 + trend filter,VCIT,0.0
+2026-08-13,60/40 + trend filter,SCHP,0.0
+2026-08-13,60/40 + trend filter,VNQ,0.0
+2026-08-13,60/40 + trend filter,IAU,0.0
+2026-08-13,60/40 + trend filter,SHV,0.0
+2026-09-14,60/40 + trend filter,VOO,0.6
+2026-09-14,60/40 + trend filter,IJR,0.0
+2026-09-14,60/40 + trend filter,VEA,0.0
+2026-09-14,60/40 + trend filter,VWO,0.0
+2026-09-14,60/40 + trend filter,BND,0.4
+2026-09-14,60/40 + trend filter,VGLT,0.0
+2026-09-14,60/40 + trend filter,VCIT,0.0
+2026-09-14,60/40 + trend filter,SCHP,0.0
+2026-09-14,60/40 + trend filter,VNQ,0.0
+2026-09-14,60/40 + trend filter,IAU,0.0
+2026-09-14,60/40 + trend filter,SHV,0.0
+2019-10-04,70/30 + trend filter,VOO,0.7
+2019-10-04,70/30 + trend filter,IJR,0.0
+2019-10-04,70/30 + trend filter,VEA,0.0
+2019-10-04,70/30 + trend filter,VWO,0.0
+2019-10-04,70/30 + trend filter,BND,0.3
+2019-10-04,70/30 + trend filter,VGLT,0.0
+2019-10-04,70/30 + trend filter,VCIT,0.0
+2019-10-04,70/30 + trend filter,SCHP,0.0
+2019-10-04,70/30 + trend filter,VNQ,0.0
+2019-10-04,70/30 + trend filter,IAU,0.0
+2019-10-04,70/30 + trend filter,SHV,0.0
+2019-11-04,70/30 + trend filter,VOO,0.7
+2019-11-04,70/30 + trend filter,IJR,0.0
+2019-11-04,70/30 + trend filter,VEA,0.0
+2019-11-04,70/30 + trend filter,VWO,0.0
+2019-11-04,70/30 + trend filter,BND,0.3
+2019-11-04,70/30 + trend filter,VGLT,0.0
+2019-11-04,70/30 + trend filter,VCIT,0.0
+2019-11-04,70/30 + trend filter,SCHP,0.0
+2019-11-04,70/30 + trend filter,VNQ,0.0
+2019-11-04,70/30 + trend filter,IAU,0.0
+2019-11-04,70/30 + trend filter,SHV,0.0
+2019-12-04,70/30 + trend filter,VOO,0.7
+2019-12-04,70/30 + trend filter,IJR,0.0
+2019-12-04,70/30 + trend filter,VEA,0.0
+2019-12-04,70/30 + trend filter,VWO,0.0
+2019-12-04,70/30 + trend filter,BND,0.3
+2019-12-04,70/30 + trend filter,VGLT,0.0
+2019-12-04,70/30 + trend filter,VCIT,0.0
+2019-12-04,70/30 + trend filter,SCHP,0.0
+2019-12-04,70/30 + trend filter,VNQ,0.0
+2019-12-04,70/30 + trend filter,IAU,0.0
+2019-12-04,70/30 + trend filter,SHV,0.0
+2020-01-06,70/30 + trend filter,VOO,0.7
+2020-01-06,70/30 + trend filter,IJR,0.0
+2020-01-06,70/30 + trend filter,VEA,0.0
+2020-01-06,70/30 + trend filter,VWO,0.0
+2020-01-06,70/30 + trend filter,BND,0.3
+2020-01-06,70/30 + trend filter,VGLT,0.0
+2020-01-06,70/30 + trend filter,VCIT,0.0
+2020-01-06,70/30 + trend filter,SCHP,0.0
+2020-01-06,70/30 + trend filter,VNQ,0.0
+2020-01-06,70/30 + trend filter,IAU,0.0
+2020-01-06,70/30 + trend filter,SHV,0.0
+2020-02-05,70/30 + trend filter,VOO,0.7
+2020-02-05,70/30 + trend filter,IJR,0.0
+2020-02-05,70/30 + trend filter,VEA,0.0
+2020-02-05,70/30 + trend filter,VWO,0.0
+2020-02-05,70/30 + trend filter,BND,0.3
+2020-02-05,70/30 + trend filter,VGLT,0.0
+2020-02-05,70/30 + trend filter,VCIT,0.0
+2020-02-05,70/30 + trend filter,SCHP,0.0
+2020-02-05,70/30 + trend filter,VNQ,0.0
+2020-02-05,70/30 + trend filter,IAU,0.0
+2020-02-05,70/30 + trend filter,SHV,0.0
+2020-03-06,70/30 + trend filter,VOO,0.0
+2020-03-06,70/30 + trend filter,IJR,0.0
+2020-03-06,70/30 + trend filter,VEA,0.0
+2020-03-06,70/30 + trend filter,VWO,0.0
+2020-03-06,70/30 + trend filter,BND,0.3
+2020-03-06,70/30 + trend filter,VGLT,0.0
+2020-03-06,70/30 + trend filter,VCIT,0.0
+2020-03-06,70/30 + trend filter,SCHP,0.0
+2020-03-06,70/30 + trend filter,VNQ,0.0
+2020-03-06,70/30 + trend filter,IAU,0.0
+2020-03-06,70/30 + trend filter,SHV,0.7
+2020-04-06,70/30 + trend filter,VOO,0.0
+2020-04-06,70/30 + trend filter,IJR,0.0
+2020-04-06,70/30 + trend filter,VEA,0.0
+2020-04-06,70/30 + trend filter,VWO,0.0
+2020-04-06,70/30 + trend filter,BND,0.3
+2020-04-06,70/30 + trend filter,VGLT,0.0
+2020-04-06,70/30 + trend filter,VCIT,0.0
+2020-04-06,70/30 + trend filter,SCHP,0.0
+2020-04-06,70/30 + trend filter,VNQ,0.0
+2020-04-06,70/30 + trend filter,IAU,0.0
+2020-04-06,70/30 + trend filter,SHV,0.7
+2020-05-06,70/30 + trend filter,VOO,0.0
+2020-05-06,70/30 + trend filter,IJR,0.0
+2020-05-06,70/30 + trend filter,VEA,0.0
+2020-05-06,70/30 + trend filter,VWO,0.0
+2020-05-06,70/30 + trend filter,BND,0.3
+2020-05-06,70/30 + trend filter,VGLT,0.0
+2020-05-06,70/30 + trend filter,VCIT,0.0
+2020-05-06,70/30 + trend filter,SCHP,0.0
+2020-05-06,70/30 + trend filter,VNQ,0.0
+2020-05-06,70/30 + trend filter,IAU,0.0
+2020-05-06,70/30 + trend filter,SHV,0.7
+2020-06-05,70/30 + trend filter,VOO,0.7
+2020-06-05,70/30 + trend filter,IJR,0.0
+2020-06-05,70/30 + trend filter,VEA,0.0
+2020-06-05,70/30 + trend filter,VWO,0.0
+2020-06-05,70/30 + trend filter,BND,0.3
+2020-06-05,70/30 + trend filter,VGLT,0.0
+2020-06-05,70/30 + trend filter,VCIT,0.0
+2020-06-05,70/30 + trend filter,SCHP,0.0
+2020-06-05,70/30 + trend filter,VNQ,0.0
+2020-06-05,70/30 + trend filter,IAU,0.0
+2020-06-05,70/30 + trend filter,SHV,0.0
+2020-07-07,70/30 + trend filter,VOO,0.7
+2020-07-07,70/30 + trend filter,IJR,0.0
+2020-07-07,70/30 + trend filter,VEA,0.0
+2020-07-07,70/30 + trend filter,VWO,0.0
+2020-07-07,70/30 + trend filter,BND,0.3
+2020-07-07,70/30 + trend filter,VGLT,0.0
+2020-07-07,70/30 + trend filter,VCIT,0.0
+2020-07-07,70/30 + trend filter,SCHP,0.0
+2020-07-07,70/30 + trend filter,VNQ,0.0
+2020-07-07,70/30 + trend filter,IAU,0.0
+2020-07-07,70/30 + trend filter,SHV,0.0
+2020-08-05,70/30 + trend filter,VOO,0.7
+2020-08-05,70/30 + trend filter,IJR,0.0
+2020-08-05,70/30 + trend filter,VEA,0.0
+2020-08-05,70/30 + trend filter,VWO,0.0
+2020-08-05,70/30 + trend filter,BND,0.3
+2020-08-05,70/30 + trend filter,VGLT,0.0
+2020-08-05,70/30 + trend filter,VCIT,0.0
+2020-08-05,70/30 + trend filter,SCHP,0.0
+2020-08-05,70/30 + trend filter,VNQ,0.0
+2020-08-05,70/30 + trend filter,IAU,0.0
+2020-08-05,70/30 + trend filter,SHV,0.0
+2020-09-03,70/30 + trend filter,VOO,0.7
+2020-09-03,70/30 + trend filter,IJR,0.0
+2020-09-03,70/30 + trend filter,VEA,0.0
+2020-09-03,70/30 + trend filter,VWO,0.0
+2020-09-03,70/30 + trend filter,BND,0.3
+2020-09-03,70/30 + trend filter,VGLT,0.0
+2020-09-03,70/30 + trend filter,VCIT,0.0
+2020-09-03,70/30 + trend filter,SCHP,0.0
+2020-09-03,70/30 + trend filter,VNQ,0.0
+2020-09-03,70/30 + trend filter,IAU,0.0
+2020-09-03,70/30 + trend filter,SHV,0.0
+2020-10-05,70/30 + trend filter,VOO,0.7
+2020-10-05,70/30 + trend filter,IJR,0.0
+2020-10-05,70/30 + trend filter,VEA,0.0
+2020-10-05,70/30 + trend filter,VWO,0.0
+2020-10-05,70/30 + trend filter,BND,0.3
+2020-10-05,70/30 + trend filter,VGLT,0.0
+2020-10-05,70/30 + trend filter,VCIT,0.0
+2020-10-05,70/30 + trend filter,SCHP,0.0
+2020-10-05,70/30 + trend filter,VNQ,0.0
+2020-10-05,70/30 + trend filter,IAU,0.0
+2020-10-05,70/30 + trend filter,SHV,0.0
+2020-11-03,70/30 + trend filter,VOO,0.7
+2020-11-03,70/30 + trend filter,IJR,0.0
+2020-11-03,70/30 + trend filter,VEA,0.0
+2020-11-03,70/30 + trend filter,VWO,0.0
+2020-11-03,70/30 + trend filter,BND,0.3
+2020-11-03,70/30 + trend filter,VGLT,0.0
+2020-11-03,70/30 + trend filter,VCIT,0.0
+2020-11-03,70/30 + trend filter,SCHP,0.0
+2020-11-03,70/30 + trend filter,VNQ,0.0
+2020-11-03,70/30 + trend filter,IAU,0.0
+2020-11-03,70/30 + trend filter,SHV,0.0
+2020-12-03,70/30 + trend filter,VOO,0.7
+2020-12-03,70/30 + trend filter,IJR,0.0
+2020-12-03,70/30 + trend filter,VEA,0.0
+2020-12-03,70/30 + trend filter,VWO,0.0
+2020-12-03,70/30 + trend filter,BND,0.3
+2020-12-03,70/30 + trend filter,VGLT,0.0
+2020-12-03,70/30 + trend filter,VCIT,0.0
+2020-12-03,70/30 + trend filter,SCHP,0.0
+2020-12-03,70/30 + trend filter,VNQ,0.0
+2020-12-03,70/30 + trend filter,IAU,0.0
+2020-12-03,70/30 + trend filter,SHV,0.0
+2021-01-05,70/30 + trend filter,VOO,0.7
+2021-01-05,70/30 + trend filter,IJR,0.0
+2021-01-05,70/30 + trend filter,VEA,0.0
+2021-01-05,70/30 + trend filter,VWO,0.0
+2021-01-05,70/30 + trend filter,BND,0.3
+2021-01-05,70/30 + trend filter,VGLT,0.0
+2021-01-05,70/30 + trend filter,VCIT,0.0
+2021-01-05,70/30 + trend filter,SCHP,0.0
+2021-01-05,70/30 + trend filter,VNQ,0.0
+2021-01-05,70/30 + trend filter,IAU,0.0
+2021-01-05,70/30 + trend filter,SHV,0.0
+2021-02-04,70/30 + trend filter,VOO,0.7
+2021-02-04,70/30 + trend filter,IJR,0.0
+2021-02-04,70/30 + trend filter,VEA,0.0
+2021-02-04,70/30 + trend filter,VWO,0.0
+2021-02-04,70/30 + trend filter,BND,0.3
+2021-02-04,70/30 + trend filter,VGLT,0.0
+2021-02-04,70/30 + trend filter,VCIT,0.0
+2021-02-04,70/30 + trend filter,SCHP,0.0
+2021-02-04,70/30 + trend filter,VNQ,0.0
+2021-02-04,70/30 + trend filter,IAU,0.0
+2021-02-04,70/30 + trend filter,SHV,0.0
+2021-03-08,70/30 + trend filter,VOO,0.7
+2021-03-08,70/30 + trend filter,IJR,0.0
+2021-03-08,70/30 + trend filter,VEA,0.0
+2021-03-08,70/30 + trend filter,VWO,0.0
+2021-03-08,70/30 + trend filter,BND,0.3
+2021-03-08,70/30 + trend filter,VGLT,0.0
+2021-03-08,70/30 + trend filter,VCIT,0.0
+2021-03-08,70/30 + trend filter,SCHP,0.0
+2021-03-08,70/30 + trend filter,VNQ,0.0
+2021-03-08,70/30 + trend filter,IAU,0.0
+2021-03-08,70/30 + trend filter,SHV,0.0
+2021-04-07,70/30 + trend filter,VOO,0.7
+2021-04-07,70/30 + trend filter,IJR,0.0
+2021-04-07,70/30 + trend filter,VEA,0.0
+2021-04-07,70/30 + trend filter,VWO,0.0
+2021-04-07,70/30 + trend filter,BND,0.3
+2021-04-07,70/30 + trend filter,VGLT,0.0
+2021-04-07,70/30 + trend filter,VCIT,0.0
+2021-04-07,70/30 + trend filter,SCHP,0.0
+2021-04-07,70/30 + trend filter,VNQ,0.0
+2021-04-07,70/30 + trend filter,IAU,0.0
+2021-04-07,70/30 + trend filter,SHV,0.0
+2021-05-06,70/30 + trend filter,VOO,0.7
+2021-05-06,70/30 + trend filter,IJR,0.0
+2021-05-06,70/30 + trend filter,VEA,0.0
+2021-05-06,70/30 + trend filter,VWO,0.0
+2021-05-06,70/30 + trend filter,BND,0.3
+2021-05-06,70/30 + trend filter,VGLT,0.0
+2021-05-06,70/30 + trend filter,VCIT,0.0
+2021-05-06,70/30 + trend filter,SCHP,0.0
+2021-05-06,70/30 + trend filter,VNQ,0.0
+2021-05-06,70/30 + trend filter,IAU,0.0
+2021-05-06,70/30 + trend filter,SHV,0.0
+2021-06-07,70/30 + trend filter,VOO,0.7
+2021-06-07,70/30 + trend filter,IJR,0.0
+2021-06-07,70/30 + trend filter,VEA,0.0
+2021-06-07,70/30 + trend filter,VWO,0.0
+2021-06-07,70/30 + trend filter,BND,0.3
+2021-06-07,70/30 + trend filter,VGLT,0.0
+2021-06-07,70/30 + trend filter,VCIT,0.0
+2021-06-07,70/30 + trend filter,SCHP,0.0
+2021-06-07,70/30 + trend filter,VNQ,0.0
+2021-06-07,70/30 + trend filter,IAU,0.0
+2021-06-07,70/30 + trend filter,SHV,0.0
+2021-07-07,70/30 + trend filter,VOO,0.7
+2021-07-07,70/30 + trend filter,IJR,0.0
+2021-07-07,70/30 + trend filter,VEA,0.0
+2021-07-07,70/30 + trend filter,VWO,0.0
+2021-07-07,70/30 + trend filter,BND,0.3
+2021-07-07,70/30 + trend filter,VGLT,0.0
+2021-07-07,70/30 + trend filter,VCIT,0.0
+2021-07-07,70/30 + trend filter,SCHP,0.0
+2021-07-07,70/30 + trend filter,VNQ,0.0
+2021-07-07,70/30 + trend filter,IAU,0.0
+2021-07-07,70/30 + trend filter,SHV,0.0
+2021-08-05,70/30 + trend filter,VOO,0.7
+2021-08-05,70/30 + trend filter,IJR,0.0
+2021-08-05,70/30 + trend filter,VEA,0.0
+2021-08-05,70/30 + trend filter,VWO,0.0
+2021-08-05,70/30 + trend filter,BND,0.3
+2021-08-05,70/30 + trend filter,VGLT,0.0
+2021-08-05,70/30 + trend filter,VCIT,0.0
+2021-08-05,70/30 + trend filter,SCHP,0.0
+2021-08-05,70/30 + trend filter,VNQ,0.0
+2021-08-05,70/30 + trend filter,IAU,0.0
+2021-08-05,70/30 + trend filter,SHV,0.0
+2021-09-03,70/30 + trend filter,VOO,0.7
+2021-09-03,70/30 + trend filter,IJR,0.0
+2021-09-03,70/30 + trend filter,VEA,0.0
+2021-09-03,70/30 + trend filter,VWO,0.0
+2021-09-03,70/30 + trend filter,BND,0.3
+2021-09-03,70/30 + trend filter,VGLT,0.0
+2021-09-03,70/30 + trend filter,VCIT,0.0
+2021-09-03,70/30 + trend filter,SCHP,0.0
+2021-09-03,70/30 + trend filter,VNQ,0.0
+2021-09-03,70/30 + trend filter,IAU,0.0
+2021-09-03,70/30 + trend filter,SHV,0.0
+2021-10-05,70/30 + trend filter,VOO,0.7
+2021-10-05,70/30 + trend filter,IJR,0.0
+2021-10-05,70/30 + trend filter,VEA,0.0
+2021-10-05,70/30 + trend filter,VWO,0.0
+2021-10-05,70/30 + trend filter,BND,0.3
+2021-10-05,70/30 + trend filter,VGLT,0.0
+2021-10-05,70/30 + trend filter,VCIT,0.0
+2021-10-05,70/30 + trend filter,SCHP,0.0
+2021-10-05,70/30 + trend filter,VNQ,0.0
+2021-10-05,70/30 + trend filter,IAU,0.0
+2021-10-05,70/30 + trend filter,SHV,0.0
+2021-11-03,70/30 + trend filter,VOO,0.7
+2021-11-03,70/30 + trend filter,IJR,0.0
+2021-11-03,70/30 + trend filter,VEA,0.0
+2021-11-03,70/30 + trend filter,VWO,0.0
+2021-11-03,70/30 + trend filter,BND,0.3
+2021-11-03,70/30 + trend filter,VGLT,0.0
+2021-11-03,70/30 + trend filter,VCIT,0.0
+2021-11-03,70/30 + trend filter,SCHP,0.0
+2021-11-03,70/30 + trend filter,VNQ,0.0
+2021-11-03,70/30 + trend filter,IAU,0.0
+2021-11-03,70/30 + trend filter,SHV,0.0
+2021-12-03,70/30 + trend filter,VOO,0.7
+2021-12-03,70/30 + trend filter,IJR,0.0
+2021-12-03,70/30 + trend filter,VEA,0.0
+2021-12-03,70/30 + trend filter,VWO,0.0
+2021-12-03,70/30 + trend filter,BND,0.3
+2021-12-03,70/30 + trend filter,VGLT,0.0
+2021-12-03,70/30 + trend filter,VCIT,0.0
+2021-12-03,70/30 + trend filter,SCHP,0.0
+2021-12-03,70/30 + trend filter,VNQ,0.0
+2021-12-03,70/30 + trend filter,IAU,0.0
+2021-12-03,70/30 + trend filter,SHV,0.0
+2022-01-04,70/30 + trend filter,VOO,0.7
+2022-01-04,70/30 + trend filter,IJR,0.0
+2022-01-04,70/30 + trend filter,VEA,0.0
+2022-01-04,70/30 + trend filter,VWO,0.0
+2022-01-04,70/30 + trend filter,BND,0.3
+2022-01-04,70/30 + trend filter,VGLT,0.0
+2022-01-04,70/30 + trend filter,VCIT,0.0
+2022-01-04,70/30 + trend filter,SCHP,0.0
+2022-01-04,70/30 + trend filter,VNQ,0.0
+2022-01-04,70/30 + trend filter,IAU,0.0
+2022-01-04,70/30 + trend filter,SHV,0.0
+2022-02-03,70/30 + trend filter,VOO,0.7
+2022-02-03,70/30 + trend filter,IJR,0.0
+2022-02-03,70/30 + trend filter,VEA,0.0
+2022-02-03,70/30 + trend filter,VWO,0.0
+2022-02-03,70/30 + trend filter,BND,0.3
+2022-02-03,70/30 + trend filter,VGLT,0.0
+2022-02-03,70/30 + trend filter,VCIT,0.0
+2022-02-03,70/30 + trend filter,SCHP,0.0
+2022-02-03,70/30 + trend filter,VNQ,0.0
+2022-02-03,70/30 + trend filter,IAU,0.0
+2022-02-03,70/30 + trend filter,SHV,0.0
+2022-03-07,70/30 + trend filter,VOO,0.0
+2022-03-07,70/30 + trend filter,IJR,0.0
+2022-03-07,70/30 + trend filter,VEA,0.0
+2022-03-07,70/30 + trend filter,VWO,0.0
+2022-03-07,70/30 + trend filter,BND,0.3
+2022-03-07,70/30 + trend filter,VGLT,0.0
+2022-03-07,70/30 + trend filter,VCIT,0.0
+2022-03-07,70/30 + trend filter,SCHP,0.0
+2022-03-07,70/30 + trend filter,VNQ,0.0
+2022-03-07,70/30 + trend filter,IAU,0.0
+2022-03-07,70/30 + trend filter,SHV,0.7
+2022-04-05,70/30 + trend filter,VOO,0.7
+2022-04-05,70/30 + trend filter,IJR,0.0
+2022-04-05,70/30 + trend filter,VEA,0.0
+2022-04-05,70/30 + trend filter,VWO,0.0
+2022-04-05,70/30 + trend filter,BND,0.3
+2022-04-05,70/30 + trend filter,VGLT,0.0
+2022-04-05,70/30 + trend filter,VCIT,0.0
+2022-04-05,70/30 + trend filter,SCHP,0.0
+2022-04-05,70/30 + trend filter,VNQ,0.0
+2022-04-05,70/30 + trend filter,IAU,0.0
+2022-04-05,70/30 + trend filter,SHV,0.0
+2022-05-05,70/30 + trend filter,VOO,0.0
+2022-05-05,70/30 + trend filter,IJR,0.0
+2022-05-05,70/30 + trend filter,VEA,0.0
+2022-05-05,70/30 + trend filter,VWO,0.0
+2022-05-05,70/30 + trend filter,BND,0.3
+2022-05-05,70/30 + trend filter,VGLT,0.0
+2022-05-05,70/30 + trend filter,VCIT,0.0
+2022-05-05,70/30 + trend filter,SCHP,0.0
+2022-05-05,70/30 + trend filter,VNQ,0.0
+2022-05-05,70/30 + trend filter,IAU,0.0
+2022-05-05,70/30 + trend filter,SHV,0.7
+2022-06-06,70/30 + trend filter,VOO,0.0
+2022-06-06,70/30 + trend filter,IJR,0.0
+2022-06-06,70/30 + trend filter,VEA,0.0
+2022-06-06,70/30 + trend filter,VWO,0.0
+2022-06-06,70/30 + trend filter,BND,0.3
+2022-06-06,70/30 + trend filter,VGLT,0.0
+2022-06-06,70/30 + trend filter,VCIT,0.0
+2022-06-06,70/30 + trend filter,SCHP,0.0
+2022-06-06,70/30 + trend filter,VNQ,0.0
+2022-06-06,70/30 + trend filter,IAU,0.0
+2022-06-06,70/30 + trend filter,SHV,0.7
+2022-07-07,70/30 + trend filter,VOO,0.0
+2022-07-07,70/30 + trend filter,IJR,0.0
+2022-07-07,70/30 + trend filter,VEA,0.0
+2022-07-07,70/30 + trend filter,VWO,0.0
+2022-07-07,70/30 + trend filter,BND,0.3
+2022-07-07,70/30 + trend filter,VGLT,0.0
+2022-07-07,70/30 + trend filter,VCIT,0.0
+2022-07-07,70/30 + trend filter,SCHP,0.0
+2022-07-07,70/30 + trend filter,VNQ,0.0
+2022-07-07,70/30 + trend filter,IAU,0.0
+2022-07-07,70/30 + trend filter,SHV,0.7
+2022-08-05,70/30 + trend filter,VOO,0.0
+2022-08-05,70/30 + trend filter,IJR,0.0
+2022-08-05,70/30 + trend filter,VEA,0.0
+2022-08-05,70/30 + trend filter,VWO,0.0
+2022-08-05,70/30 + trend filter,BND,0.3
+2022-08-05,70/30 + trend filter,VGLT,0.0
+2022-08-05,70/30 + trend filter,VCIT,0.0
+2022-08-05,70/30 + trend filter,SCHP,0.0
+2022-08-05,70/30 + trend filter,VNQ,0.0
+2022-08-05,70/30 + trend filter,IAU,0.0
+2022-08-05,70/30 + trend filter,SHV,0.7
+2022-09-06,70/30 + trend filter,VOO,0.0
+2022-09-06,70/30 + trend filter,IJR,0.0
+2022-09-06,70/30 + trend filter,VEA,0.0
+2022-09-06,70/30 + trend filter,VWO,0.0
+2022-09-06,70/30 + trend filter,BND,0.3
+2022-09-06,70/30 + trend filter,VGLT,0.0
+2022-09-06,70/30 + trend filter,VCIT,0.0
+2022-09-06,70/30 + trend filter,SCHP,0.0
+2022-09-06,70/30 + trend filter,VNQ,0.0
+2022-09-06,70/30 + trend filter,IAU,0.0
+2022-09-06,70/30 + trend filter,SHV,0.7
+2022-10-05,70/30 + trend filter,VOO,0.0
+2022-10-05,70/30 + trend filter,IJR,0.0
+2022-10-05,70/30 + trend filter,VEA,0.0
+2022-10-05,70/30 + trend filter,VWO,0.0
+2022-10-05,70/30 + trend filter,BND,0.3
+2022-10-05,70/30 + trend filter,VGLT,0.0
+2022-10-05,70/30 + trend filter,VCIT,0.0
+2022-10-05,70/30 + trend filter,SCHP,0.0
+2022-10-05,70/30 + trend filter,VNQ,0.0
+2022-10-05,70/30 + trend filter,IAU,0.0
+2022-10-05,70/30 + trend filter,SHV,0.7
+2022-11-03,70/30 + trend filter,VOO,0.0
+2022-11-03,70/30 + trend filter,IJR,0.0
+2022-11-03,70/30 + trend filter,VEA,0.0
+2022-11-03,70/30 + trend filter,VWO,0.0
+2022-11-03,70/30 + trend filter,BND,0.3
+2022-11-03,70/30 + trend filter,VGLT,0.0
+2022-11-03,70/30 + trend filter,VCIT,0.0
+2022-11-03,70/30 + trend filter,SCHP,0.0
+2022-11-03,70/30 + trend filter,VNQ,0.0
+2022-11-03,70/30 + trend filter,IAU,0.0
+2022-11-03,70/30 + trend filter,SHV,0.7
+2022-12-05,70/30 + trend filter,VOO,0.7
+2022-12-05,70/30 + trend filter,IJR,0.0
+2022-12-05,70/30 + trend filter,VEA,0.0
+2022-12-05,70/30 + trend filter,VWO,0.0
+2022-12-05,70/30 + trend filter,BND,0.3
+2022-12-05,70/30 + trend filter,VGLT,0.0
+2022-12-05,70/30 + trend filter,VCIT,0.0
+2022-12-05,70/30 + trend filter,SCHP,0.0
+2022-12-05,70/30 + trend filter,VNQ,0.0
+2022-12-05,70/30 + trend filter,IAU,0.0
+2022-12-05,70/30 + trend filter,SHV,0.0
+2023-01-05,70/30 + trend filter,VOO,0.0
+2023-01-05,70/30 + trend filter,IJR,0.0
+2023-01-05,70/30 + trend filter,VEA,0.0
+2023-01-05,70/30 + trend filter,VWO,0.0
+2023-01-05,70/30 + trend filter,BND,0.3
+2023-01-05,70/30 + trend filter,VGLT,0.0
+2023-01-05,70/30 + trend filter,VCIT,0.0
+2023-01-05,70/30 + trend filter,SCHP,0.0
+2023-01-05,70/30 + trend filter,VNQ,0.0
+2023-01-05,70/30 + trend filter,IAU,0.0
+2023-01-05,70/30 + trend filter,SHV,0.7
+2023-02-06,70/30 + trend filter,VOO,0.7
+2023-02-06,70/30 + trend filter,IJR,0.0
+2023-02-06,70/30 + trend filter,VEA,0.0
+2023-02-06,70/30 + trend filter,VWO,0.0
+2023-02-06,70/30 + trend filter,BND,0.3
+2023-02-06,70/30 + trend filter,VGLT,0.0
+2023-02-06,70/30 + trend filter,VCIT,0.0
+2023-02-06,70/30 + trend filter,SCHP,0.0
+2023-02-06,70/30 + trend filter,VNQ,0.0
+2023-02-06,70/30 + trend filter,IAU,0.0
+2023-02-06,70/30 + trend filter,SHV,0.0
+2023-03-08,70/30 + trend filter,VOO,0.7
+2023-03-08,70/30 + trend filter,IJR,0.0
+2023-03-08,70/30 + trend filter,VEA,0.0
+2023-03-08,70/30 + trend filter,VWO,0.0
+2023-03-08,70/30 + trend filter,BND,0.3
+2023-03-08,70/30 + trend filter,VGLT,0.0
+2023-03-08,70/30 + trend filter,VCIT,0.0
+2023-03-08,70/30 + trend filter,SCHP,0.0
+2023-03-08,70/30 + trend filter,VNQ,0.0
+2023-03-08,70/30 + trend filter,IAU,0.0
+2023-03-08,70/30 + trend filter,SHV,0.0
+2023-04-06,70/30 + trend filter,VOO,0.7
+2023-04-06,70/30 + trend filter,IJR,0.0
+2023-04-06,70/30 + trend filter,VEA,0.0
+2023-04-06,70/30 + trend filter,VWO,0.0
+2023-04-06,70/30 + trend filter,BND,0.3
+2023-04-06,70/30 + trend filter,VGLT,0.0
+2023-04-06,70/30 + trend filter,VCIT,0.0
+2023-04-06,70/30 + trend filter,SCHP,0.0
+2023-04-06,70/30 + trend filter,VNQ,0.0
+2023-04-06,70/30 + trend filter,IAU,0.0
+2023-04-06,70/30 + trend filter,SHV,0.0
+2023-05-08,70/30 + trend filter,VOO,0.7
+2023-05-08,70/30 + trend filter,IJR,0.0
+2023-05-08,70/30 + trend filter,VEA,0.0
+2023-05-08,70/30 + trend filter,VWO,0.0
+2023-05-08,70/30 + trend filter,BND,0.3
+2023-05-08,70/30 + trend filter,VGLT,0.0
+2023-05-08,70/30 + trend filter,VCIT,0.0
+2023-05-08,70/30 + trend filter,SCHP,0.0
+2023-05-08,70/30 + trend filter,VNQ,0.0
+2023-05-08,70/30 + trend filter,IAU,0.0
+2023-05-08,70/30 + trend filter,SHV,0.0
+2023-06-07,70/30 + trend filter,VOO,0.7
+2023-06-07,70/30 + trend filter,IJR,0.0
+2023-06-07,70/30 + trend filter,VEA,0.0
+2023-06-07,70/30 + trend filter,VWO,0.0
+2023-06-07,70/30 + trend filter,BND,0.3
+2023-06-07,70/30 + trend filter,VGLT,0.0
+2023-06-07,70/30 + trend filter,VCIT,0.0
+2023-06-07,70/30 + trend filter,SCHP,0.0
+2023-06-07,70/30 + trend filter,VNQ,0.0
+2023-06-07,70/30 + trend filter,IAU,0.0
+2023-06-07,70/30 + trend filter,SHV,0.0
+2023-07-10,70/30 + trend filter,VOO,0.7
+2023-07-10,70/30 + trend filter,IJR,0.0
+2023-07-10,70/30 + trend filter,VEA,0.0
+2023-07-10,70/30 + trend filter,VWO,0.0
+2023-07-10,70/30 + trend filter,BND,0.3
+2023-07-10,70/30 + trend filter,VGLT,0.0
+2023-07-10,70/30 + trend filter,VCIT,0.0
+2023-07-10,70/30 + trend filter,SCHP,0.0
+2023-07-10,70/30 + trend filter,VNQ,0.0
+2023-07-10,70/30 + trend filter,IAU,0.0
+2023-07-10,70/30 + trend filter,SHV,0.0
+2023-08-08,70/30 + trend filter,VOO,0.7
+2023-08-08,70/30 + trend filter,IJR,0.0
+2023-08-08,70/30 + trend filter,VEA,0.0
+2023-08-08,70/30 + trend filter,VWO,0.0
+2023-08-08,70/30 + trend filter,BND,0.3
+2023-08-08,70/30 + trend filter,VGLT,0.0
+2023-08-08,70/30 + trend filter,VCIT,0.0
+2023-08-08,70/30 + trend filter,SCHP,0.0
+2023-08-08,70/30 + trend filter,VNQ,0.0
+2023-08-08,70/30 + trend filter,IAU,0.0
+2023-08-08,70/30 + trend filter,SHV,0.0
+2023-09-07,70/30 + trend filter,VOO,0.7
+2023-09-07,70/30 + trend filter,IJR,0.0
+2023-09-07,70/30 + trend filter,VEA,0.0
+2023-09-07,70/30 + trend filter,VWO,0.0
+2023-09-07,70/30 + trend filter,BND,0.3
+2023-09-07,70/30 + trend filter,VGLT,0.0
+2023-09-07,70/30 + trend filter,VCIT,0.0
+2023-09-07,70/30 + trend filter,SCHP,0.0
+2023-09-07,70/30 + trend filter,VNQ,0.0
+2023-09-07,70/30 + trend filter,IAU,0.0
+2023-09-07,70/30 + trend filter,SHV,0.0
+2023-10-06,70/30 + trend filter,VOO,0.7
+2023-10-06,70/30 + trend filter,IJR,0.0
+2023-10-06,70/30 + trend filter,VEA,0.0
+2023-10-06,70/30 + trend filter,VWO,0.0
+2023-10-06,70/30 + trend filter,BND,0.3
+2023-10-06,70/30 + trend filter,VGLT,0.0
+2023-10-06,70/30 + trend filter,VCIT,0.0
+2023-10-06,70/30 + trend filter,SCHP,0.0
+2023-10-06,70/30 + trend filter,VNQ,0.0
+2023-10-06,70/30 + trend filter,IAU,0.0
+2023-10-06,70/30 + trend filter,SHV,0.0
+2023-11-06,70/30 + trend filter,VOO,0.7
+2023-11-06,70/30 + trend filter,IJR,0.0
+2023-11-06,70/30 + trend filter,VEA,0.0
+2023-11-06,70/30 + trend filter,VWO,0.0
+2023-11-06,70/30 + trend filter,BND,0.3
+2023-11-06,70/30 + trend filter,VGLT,0.0
+2023-11-06,70/30 + trend filter,VCIT,0.0
+2023-11-06,70/30 + trend filter,SCHP,0.0
+2023-11-06,70/30 + trend filter,VNQ,0.0
+2023-11-06,70/30 + trend filter,IAU,0.0
+2023-11-06,70/30 + trend filter,SHV,0.0
+2023-12-06,70/30 + trend filter,VOO,0.7
+2023-12-06,70/30 + trend filter,IJR,0.0
+2023-12-06,70/30 + trend filter,VEA,0.0
+2023-12-06,70/30 + trend filter,VWO,0.0
+2023-12-06,70/30 + trend filter,BND,0.3
+2023-12-06,70/30 + trend filter,VGLT,0.0
+2023-12-06,70/30 + trend filter,VCIT,0.0
+2023-12-06,70/30 + trend filter,SCHP,0.0
+2023-12-06,70/30 + trend filter,VNQ,0.0
+2023-12-06,70/30 + trend filter,IAU,0.0
+2023-12-06,70/30 + trend filter,SHV,0.0
+2024-01-08,70/30 + trend filter,VOO,0.7
+2024-01-08,70/30 + trend filter,IJR,0.0
+2024-01-08,70/30 + trend filter,VEA,0.0
+2024-01-08,70/30 + trend filter,VWO,0.0
+2024-01-08,70/30 + trend filter,BND,0.3
+2024-01-08,70/30 + trend filter,VGLT,0.0
+2024-01-08,70/30 + trend filter,VCIT,0.0
+2024-01-08,70/30 + trend filter,SCHP,0.0
+2024-01-08,70/30 + trend filter,VNQ,0.0
+2024-01-08,70/30 + trend filter,IAU,0.0
+2024-01-08,70/30 + trend filter,SHV,0.0
+2024-02-07,70/30 + trend filter,VOO,0.7
+2024-02-07,70/30 + trend filter,IJR,0.0
+2024-02-07,70/30 + trend filter,VEA,0.0
+2024-02-07,70/30 + trend filter,VWO,0.0
+2024-02-07,70/30 + trend filter,BND,0.3
+2024-02-07,70/30 + trend filter,VGLT,0.0
+2024-02-07,70/30 + trend filter,VCIT,0.0
+2024-02-07,70/30 + trend filter,SCHP,0.0
+2024-02-07,70/30 + trend filter,VNQ,0.0
+2024-02-07,70/30 + trend filter,IAU,0.0
+2024-02-07,70/30 + trend filter,SHV,0.0
+2024-03-08,70/30 + trend filter,VOO,0.7
+2024-03-08,70/30 + trend filter,IJR,0.0
+2024-03-08,70/30 + trend filter,VEA,0.0
+2024-03-08,70/30 + trend filter,VWO,0.0
+2024-03-08,70/30 + trend filter,BND,0.3
+2024-03-08,70/30 + trend filter,VGLT,0.0
+2024-03-08,70/30 + trend filter,VCIT,0.0
+2024-03-08,70/30 + trend filter,SCHP,0.0
+2024-03-08,70/30 + trend filter,VNQ,0.0
+2024-03-08,70/30 + trend filter,IAU,0.0
+2024-03-08,70/30 + trend filter,SHV,0.0
+2024-04-09,70/30 + trend filter,VOO,0.7
+2024-04-09,70/30 + trend filter,IJR,0.0
+2024-04-09,70/30 + trend filter,VEA,0.0
+2024-04-09,70/30 + trend filter,VWO,0.0
+2024-04-09,70/30 + trend filter,BND,0.3
+2024-04-09,70/30 + trend filter,VGLT,0.0
+2024-04-09,70/30 + trend filter,VCIT,0.0
+2024-04-09,70/30 + trend filter,SCHP,0.0
+2024-04-09,70/30 + trend filter,VNQ,0.0
+2024-04-09,70/30 + trend filter,IAU,0.0
+2024-04-09,70/30 + trend filter,SHV,0.0
+2024-05-08,70/30 + trend filter,VOO,0.7
+2024-05-08,70/30 + trend filter,IJR,0.0
+2024-05-08,70/30 + trend filter,VEA,0.0
+2024-05-08,70/30 + trend filter,VWO,0.0
+2024-05-08,70/30 + trend filter,BND,0.3
+2024-05-08,70/30 + trend filter,VGLT,0.0
+2024-05-08,70/30 + trend filter,VCIT,0.0
+2024-05-08,70/30 + trend filter,SCHP,0.0
+2024-05-08,70/30 + trend filter,VNQ,0.0
+2024-05-08,70/30 + trend filter,IAU,0.0
+2024-05-08,70/30 + trend filter,SHV,0.0
+2024-06-07,70/30 + trend filter,VOO,0.7
+2024-06-07,70/30 + trend filter,IJR,0.0
+2024-06-07,70/30 + trend filter,VEA,0.0
+2024-06-07,70/30 + trend filter,VWO,0.0
+2024-06-07,70/30 + trend filter,BND,0.3
+2024-06-07,70/30 + trend filter,VGLT,0.0
+2024-06-07,70/30 + trend filter,VCIT,0.0
+2024-06-07,70/30 + trend filter,SCHP,0.0
+2024-06-07,70/30 + trend filter,VNQ,0.0
+2024-06-07,70/30 + trend filter,IAU,0.0
+2024-06-07,70/30 + trend filter,SHV,0.0
+2024-07-10,70/30 + trend filter,VOO,0.7
+2024-07-10,70/30 + trend filter,IJR,0.0
+2024-07-10,70/30 + trend filter,VEA,0.0
+2024-07-10,70/30 + trend filter,VWO,0.0
+2024-07-10,70/30 + trend filter,BND,0.3
+2024-07-10,70/30 + trend filter,VGLT,0.0
+2024-07-10,70/30 + trend filter,VCIT,0.0
+2024-07-10,70/30 + trend filter,SCHP,0.0
+2024-07-10,70/30 + trend filter,VNQ,0.0
+2024-07-10,70/30 + trend filter,IAU,0.0
+2024-07-10,70/30 + trend filter,SHV,0.0
+2024-08-08,70/30 + trend filter,VOO,0.7
+2024-08-08,70/30 + trend filter,IJR,0.0
+2024-08-08,70/30 + trend filter,VEA,0.0
+2024-08-08,70/30 + trend filter,VWO,0.0
+2024-08-08,70/30 + trend filter,BND,0.3
+2024-08-08,70/30 + trend filter,VGLT,0.0
+2024-08-08,70/30 + trend filter,VCIT,0.0
+2024-08-08,70/30 + trend filter,SCHP,0.0
+2024-08-08,70/30 + trend filter,VNQ,0.0
+2024-08-08,70/30 + trend filter,IAU,0.0
+2024-08-08,70/30 + trend filter,SHV,0.0
+2024-09-09,70/30 + trend filter,VOO,0.7
+2024-09-09,70/30 + trend filter,IJR,0.0
+2024-09-09,70/30 + trend filter,VEA,0.0
+2024-09-09,70/30 + trend filter,VWO,0.0
+2024-09-09,70/30 + trend filter,BND,0.3
+2024-09-09,70/30 + trend filter,VGLT,0.0
+2024-09-09,70/30 + trend filter,VCIT,0.0
+2024-09-09,70/30 + trend filter,SCHP,0.0
+2024-09-09,70/30 + trend filter,VNQ,0.0
+2024-09-09,70/30 + trend filter,IAU,0.0
+2024-09-09,70/30 + trend filter,SHV,0.0
+2024-10-08,70/30 + trend filter,VOO,0.7
+2024-10-08,70/30 + trend filter,IJR,0.0
+2024-10-08,70/30 + trend filter,VEA,0.0
+2024-10-08,70/30 + trend filter,VWO,0.0
+2024-10-08,70/30 + trend filter,BND,0.3
+2024-10-08,70/30 + trend filter,VGLT,0.0
+2024-10-08,70/30 + trend filter,VCIT,0.0
+2024-10-08,70/30 + trend filter,SCHP,0.0
+2024-10-08,70/30 + trend filter,VNQ,0.0
+2024-10-08,70/30 + trend filter,IAU,0.0
+2024-10-08,70/30 + trend filter,SHV,0.0
+2024-11-06,70/30 + trend filter,VOO,0.7
+2024-11-06,70/30 + trend filter,IJR,0.0
+2024-11-06,70/30 + trend filter,VEA,0.0
+2024-11-06,70/30 + trend filter,VWO,0.0
+2024-11-06,70/30 + trend filter,BND,0.3
+2024-11-06,70/30 + trend filter,VGLT,0.0
+2024-11-06,70/30 + trend filter,VCIT,0.0
+2024-11-06,70/30 + trend filter,SCHP,0.0
+2024-11-06,70/30 + trend filter,VNQ,0.0
+2024-11-06,70/30 + trend filter,IAU,0.0
+2024-11-06,70/30 + trend filter,SHV,0.0
+2024-12-06,70/30 + trend filter,VOO,0.7
+2024-12-06,70/30 + trend filter,IJR,0.0
+2024-12-06,70/30 + trend filter,VEA,0.0
+2024-12-06,70/30 + trend filter,VWO,0.0
+2024-12-06,70/30 + trend filter,BND,0.3
+2024-12-06,70/30 + trend filter,VGLT,0.0
+2024-12-06,70/30 + trend filter,VCIT,0.0
+2024-12-06,70/30 + trend filter,SCHP,0.0
+2024-12-06,70/30 + trend filter,VNQ,0.0
+2024-12-06,70/30 + trend filter,IAU,0.0
+2024-12-06,70/30 + trend filter,SHV,0.0
+2025-01-08,70/30 + trend filter,VOO,0.7
+2025-01-08,70/30 + trend filter,IJR,0.0
+2025-01-08,70/30 + trend filter,VEA,0.0
+2025-01-08,70/30 + trend filter,VWO,0.0
+2025-01-08,70/30 + trend filter,BND,0.3
+2025-01-08,70/30 + trend filter,VGLT,0.0
+2025-01-08,70/30 + trend filter,VCIT,0.0
+2025-01-08,70/30 + trend filter,SCHP,0.0
+2025-01-08,70/30 + trend filter,VNQ,0.0
+2025-01-08,70/30 + trend filter,IAU,0.0
+2025-01-08,70/30 + trend filter,SHV,0.0
+2025-02-10,70/30 + trend filter,VOO,0.7
+2025-02-10,70/30 + trend filter,IJR,0.0
+2025-02-10,70/30 + trend filter,VEA,0.0
+2025-02-10,70/30 + trend filter,VWO,0.0
+2025-02-10,70/30 + trend filter,BND,0.3
+2025-02-10,70/30 + trend filter,VGLT,0.0
+2025-02-10,70/30 + trend filter,VCIT,0.0
+2025-02-10,70/30 + trend filter,SCHP,0.0
+2025-02-10,70/30 + trend filter,VNQ,0.0
+2025-02-10,70/30 + trend filter,IAU,0.0
+2025-02-10,70/30 + trend filter,SHV,0.0
+2025-03-12,70/30 + trend filter,VOO,0.0
+2025-03-12,70/30 + trend filter,IJR,0.0
+2025-03-12,70/30 + trend filter,VEA,0.0
+2025-03-12,70/30 + trend filter,VWO,0.0
+2025-03-12,70/30 + trend filter,BND,0.3
+2025-03-12,70/30 + trend filter,VGLT,0.0
+2025-03-12,70/30 + trend filter,VCIT,0.0
+2025-03-12,70/30 + trend filter,SCHP,0.0
+2025-03-12,70/30 + trend filter,VNQ,0.0
+2025-03-12,70/30 + trend filter,IAU,0.0
+2025-03-12,70/30 + trend filter,SHV,0.7
+2025-04-10,70/30 + trend filter,VOO,0.0
+2025-04-10,70/30 + trend filter,IJR,0.0
+2025-04-10,70/30 + trend filter,VEA,0.0
+2025-04-10,70/30 + trend filter,VWO,0.0
+2025-04-10,70/30 + trend filter,BND,0.3
+2025-04-10,70/30 + trend filter,VGLT,0.0
+2025-04-10,70/30 + trend filter,VCIT,0.0
+2025-04-10,70/30 + trend filter,SCHP,0.0
+2025-04-10,70/30 + trend filter,VNQ,0.0
+2025-04-10,70/30 + trend filter,IAU,0.0
+2025-04-10,70/30 + trend filter,SHV,0.7
+2025-05-12,70/30 + trend filter,VOO,0.0
+2025-05-12,70/30 + trend filter,IJR,0.0
+2025-05-12,70/30 + trend filter,VEA,0.0
+2025-05-12,70/30 + trend filter,VWO,0.0
+2025-05-12,70/30 + trend filter,BND,0.3
+2025-05-12,70/30 + trend filter,VGLT,0.0
+2025-05-12,70/30 + trend filter,VCIT,0.0
+2025-05-12,70/30 + trend filter,SCHP,0.0
+2025-05-12,70/30 + trend filter,VNQ,0.0
+2025-05-12,70/30 + trend filter,IAU,0.0
+2025-05-12,70/30 + trend filter,SHV,0.7
+2025-06-11,70/30 + trend filter,VOO,0.7
+2025-06-11,70/30 + trend filter,IJR,0.0
+2025-06-11,70/30 + trend filter,VEA,0.0
+2025-06-11,70/30 + trend filter,VWO,0.0
+2025-06-11,70/30 + trend filter,BND,0.3
+2025-06-11,70/30 + trend filter,VGLT,0.0
+2025-06-11,70/30 + trend filter,VCIT,0.0
+2025-06-11,70/30 + trend filter,SCHP,0.0
+2025-06-11,70/30 + trend filter,VNQ,0.0
+2025-06-11,70/30 + trend filter,IAU,0.0
+2025-06-11,70/30 + trend filter,SHV,0.0
+2025-07-14,70/30 + trend filter,VOO,0.7
+2025-07-14,70/30 + trend filter,IJR,0.0
+2025-07-14,70/30 + trend filter,VEA,0.0
+2025-07-14,70/30 + trend filter,VWO,0.0
+2025-07-14,70/30 + trend filter,BND,0.3
+2025-07-14,70/30 + trend filter,VGLT,0.0
+2025-07-14,70/30 + trend filter,VCIT,0.0
+2025-07-14,70/30 + trend filter,SCHP,0.0
+2025-07-14,70/30 + trend filter,VNQ,0.0
+2025-07-14,70/30 + trend filter,IAU,0.0
+2025-07-14,70/30 + trend filter,SHV,0.0
+2025-08-12,70/30 + trend filter,VOO,0.7
+2025-08-12,70/30 + trend filter,IJR,0.0
+2025-08-12,70/30 + trend filter,VEA,0.0
+2025-08-12,70/30 + trend filter,VWO,0.0
+2025-08-12,70/30 + trend filter,BND,0.3
+2025-08-12,70/30 + trend filter,VGLT,0.0
+2025-08-12,70/30 + trend filter,VCIT,0.0
+2025-08-12,70/30 + trend filter,SCHP,0.0
+2025-08-12,70/30 + trend filter,VNQ,0.0
+2025-08-12,70/30 + trend filter,IAU,0.0
+2025-08-12,70/30 + trend filter,SHV,0.0
+2025-09-11,70/30 + trend filter,VOO,0.7
+2025-09-11,70/30 + trend filter,IJR,0.0
+2025-09-11,70/30 + trend filter,VEA,0.0
+2025-09-11,70/30 + trend filter,VWO,0.0
+2025-09-11,70/30 + trend filter,BND,0.3
+2025-09-11,70/30 + trend filter,VGLT,0.0
+2025-09-11,70/30 + trend filter,VCIT,0.0
+2025-09-11,70/30 + trend filter,SCHP,0.0
+2025-09-11,70/30 + trend filter,VNQ,0.0
+2025-09-11,70/30 + trend filter,IAU,0.0
+2025-09-11,70/30 + trend filter,SHV,0.0
+2025-10-10,70/30 + trend filter,VOO,0.7
+2025-10-10,70/30 + trend filter,IJR,0.0
+2025-10-10,70/30 + trend filter,VEA,0.0
+2025-10-10,70/30 + trend filter,VWO,0.0
+2025-10-10,70/30 + trend filter,BND,0.3
+2025-10-10,70/30 + trend filter,VGLT,0.0
+2025-10-10,70/30 + trend filter,VCIT,0.0
+2025-10-10,70/30 + trend filter,SCHP,0.0
+2025-10-10,70/30 + trend filter,VNQ,0.0
+2025-10-10,70/30 + trend filter,IAU,0.0
+2025-10-10,70/30 + trend filter,SHV,0.0
+2025-11-10,70/30 + trend filter,VOO,0.7
+2025-11-10,70/30 + trend filter,IJR,0.0
+2025-11-10,70/30 + trend filter,VEA,0.0
+2025-11-10,70/30 + trend filter,VWO,0.0
+2025-11-10,70/30 + trend filter,BND,0.3
+2025-11-10,70/30 + trend filter,VGLT,0.0
+2025-11-10,70/30 + trend filter,VCIT,0.0
+2025-11-10,70/30 + trend filter,SCHP,0.0
+2025-11-10,70/30 + trend filter,VNQ,0.0
+2025-11-10,70/30 + trend filter,IAU,0.0
+2025-11-10,70/30 + trend filter,SHV,0.0
+2025-12-10,70/30 + trend filter,VOO,0.7
+2025-12-10,70/30 + trend filter,IJR,0.0
+2025-12-10,70/30 + trend filter,VEA,0.0
+2025-12-10,70/30 + trend filter,VWO,0.0
+2025-12-10,70/30 + trend filter,BND,0.3
+2025-12-10,70/30 + trend filter,VGLT,0.0
+2025-12-10,70/30 + trend filter,VCIT,0.0
+2025-12-10,70/30 + trend filter,SCHP,0.0
+2025-12-10,70/30 + trend filter,VNQ,0.0
+2025-12-10,70/30 + trend filter,IAU,0.0
+2025-12-10,70/30 + trend filter,SHV,0.0
+2026-01-12,70/30 + trend filter,VOO,0.7
+2026-01-12,70/30 + trend filter,IJR,0.0
+2026-01-12,70/30 + trend filter,VEA,0.0
+2026-01-12,70/30 + trend filter,VWO,0.0
+2026-01-12,70/30 + trend filter,BND,0.3
+2026-01-12,70/30 + trend filter,VGLT,0.0
+2026-01-12,70/30 + trend filter,VCIT,0.0
+2026-01-12,70/30 + trend filter,SCHP,0.0
+2026-01-12,70/30 + trend filter,VNQ,0.0
+2026-01-12,70/30 + trend filter,IAU,0.0
+2026-01-12,70/30 + trend filter,SHV,0.0
+2026-02-11,70/30 + trend filter,VOO,0.7
+2026-02-11,70/30 + trend filter,IJR,0.0
+2026-02-11,70/30 + trend filter,VEA,0.0
+2026-02-11,70/30 + trend filter,VWO,0.0
+2026-02-11,70/30 + trend filter,BND,0.3
+2026-02-11,70/30 + trend filter,VGLT,0.0
+2026-02-11,70/30 + trend filter,VCIT,0.0
+2026-02-11,70/30 + trend filter,SCHP,0.0
+2026-02-11,70/30 + trend filter,VNQ,0.0
+2026-02-11,70/30 + trend filter,IAU,0.0
+2026-02-11,70/30 + trend filter,SHV,0.0
+2026-03-13,70/30 + trend filter,VOO,0.7
+2026-03-13,70/30 + trend filter,IJR,0.0
+2026-03-13,70/30 + trend filter,VEA,0.0
+2026-03-13,70/30 + trend filter,VWO,0.0
+2026-03-13,70/30 + trend filter,BND,0.3
+2026-03-13,70/30 + trend filter,VGLT,0.0
+2026-03-13,70/30 + trend filter,VCIT,0.0
+2026-03-13,70/30 + trend filter,SCHP,0.0
+2026-03-13,70/30 + trend filter,VNQ,0.0
+2026-03-13,70/30 + trend filter,IAU,0.0
+2026-03-13,70/30 + trend filter,SHV,0.0
+2026-04-14,70/30 + trend filter,VOO,0.7
+2026-04-14,70/30 + trend filter,IJR,0.0
+2026-04-14,70/30 + trend filter,VEA,0.0
+2026-04-14,70/30 + trend filter,VWO,0.0
+2026-04-14,70/30 + trend filter,BND,0.3
+2026-04-14,70/30 + trend filter,VGLT,0.0
+2026-04-14,70/30 + trend filter,VCIT,0.0
+2026-04-14,70/30 + trend filter,SCHP,0.0
+2026-04-14,70/30 + trend filter,VNQ,0.0
+2026-04-14,70/30 + trend filter,IAU,0.0
+2026-04-14,70/30 + trend filter,SHV,0.0
+2026-05-13,70/30 + trend filter,VOO,0.7
+2026-05-13,70/30 + trend filter,IJR,0.0
+2026-05-13,70/30 + trend filter,VEA,0.0
+2026-05-13,70/30 + trend filter,VWO,0.0
+2026-05-13,70/30 + trend filter,BND,0.3
+2026-05-13,70/30 + trend filter,VGLT,0.0
+2026-05-13,70/30 + trend filter,VCIT,0.0
+2026-05-13,70/30 + trend filter,SCHP,0.0
+2026-05-13,70/30 + trend filter,VNQ,0.0
+2026-05-13,70/30 + trend filter,IAU,0.0
+2026-05-13,70/30 + trend filter,SHV,0.0
+2026-06-12,70/30 + trend filter,VOO,0.7
+2026-06-12,70/30 + trend filter,IJR,0.0
+2026-06-12,70/30 + trend filter,VEA,0.0
+2026-06-12,70/30 + trend filter,VWO,0.0
+2026-06-12,70/30 + trend filter,BND,0.3
+2026-06-12,70/30 + trend filter,VGLT,0.0
+2026-06-12,70/30 + trend filter,VCIT,0.0
+2026-06-12,70/30 + trend filter,SCHP,0.0
+2026-06-12,70/30 + trend filter,VNQ,0.0
+2026-06-12,70/30 + trend filter,IAU,0.0
+2026-06-12,70/30 + trend filter,SHV,0.0
+2026-07-15,70/30 + trend filter,VOO,0.7
+2026-07-15,70/30 + trend filter,IJR,0.0
+2026-07-15,70/30 + trend filter,VEA,0.0
+2026-07-15,70/30 + trend filter,VWO,0.0
+2026-07-15,70/30 + trend filter,BND,0.3
+2026-07-15,70/30 + trend filter,VGLT,0.0
+2026-07-15,70/30 + trend filter,VCIT,0.0
+2026-07-15,70/30 + trend filter,SCHP,0.0
+2026-07-15,70/30 + trend filter,VNQ,0.0
+2026-07-15,70/30 + trend filter,IAU,0.0
+2026-07-15,70/30 + trend filter,SHV,0.0
+2026-08-13,70/30 + trend filter,VOO,0.7
+2026-08-13,70/30 + trend filter,IJR,0.0
+2026-08-13,70/30 + trend filter,VEA,0.0
+2026-08-13,70/30 + trend filter,VWO,0.0
+2026-08-13,70/30 + trend filter,BND,0.3
+2026-08-13,70/30 + trend filter,VGLT,0.0
+2026-08-13,70/30 + trend filter,VCIT,0.0
+2026-08-13,70/30 + trend filter,SCHP,0.0
+2026-08-13,70/30 + trend filter,VNQ,0.0
+2026-08-13,70/30 + trend filter,IAU,0.0
+2026-08-13,70/30 + trend filter,SHV,0.0
+2026-09-14,70/30 + trend filter,VOO,0.7
+2026-09-14,70/30 + trend filter,IJR,0.0
+2026-09-14,70/30 + trend filter,VEA,0.0
+2026-09-14,70/30 + trend filter,VWO,0.0
+2026-09-14,70/30 + trend filter,BND,0.3
+2026-09-14,70/30 + trend filter,VGLT,0.0
+2026-09-14,70/30 + trend filter,VCIT,0.0
+2026-09-14,70/30 + trend filter,SCHP,0.0
+2026-09-14,70/30 + trend filter,VNQ,0.0
+2026-09-14,70/30 + trend filter,IAU,0.0
+2026-09-14,70/30 + trend filter,SHV,0.0
